@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_3.py" afterDir="false" />
+    <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585593451133</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="folder">
+      <created>1585594992691</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585594992691</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,26 +151,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="folder" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="338" y="76" key="CommitChangelistDialog2" timestamp="1585593450999">
+    <state x="338" y="76" key="CommitChangelistDialog2" timestamp="1585657918631">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1585593450999" />
-    <state width="1379" height="217" key="GridCell.Tab.0.bottom" timestamp="1585594974319">
+    <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1585657918631" />
+    <state x="151" y="112" key="DiffContextDialog" timestamp="1585657915273">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585594974319" />
-    <state width="1379" height="217" key="GridCell.Tab.0.center" timestamp="1585594974318">
+    <state x="151" y="112" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1585657915273" />
+    <state width="1379" height="217" key="GridCell.Tab.0.bottom" timestamp="1585595011575">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585594974318" />
-    <state width="1379" height="217" key="GridCell.Tab.0.left" timestamp="1585594974317">
+    <state width="1379" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585595011575" />
+    <state width="1379" height="217" key="GridCell.Tab.0.center" timestamp="1585595011574">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585594974317" />
-    <state width="1379" height="217" key="GridCell.Tab.0.right" timestamp="1585594974318">
+    <state width="1379" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585595011574" />
+    <state width="1379" height="217" key="GridCell.Tab.0.left" timestamp="1585595011574">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585594974318" />
+    <state width="1379" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585595011574" />
+    <state width="1379" height="217" key="GridCell.Tab.0.right" timestamp="1585595011575">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585595011575" />
     <state x="241" y="110" key="SettingsEditor" timestamp="1585592416896">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
