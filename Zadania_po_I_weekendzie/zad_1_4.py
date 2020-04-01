@@ -15,19 +15,76 @@ Przykładowo: jeśli użytkownik ma 70 lat i spędzi w hotelu dziesięć nocy, z
 czyli 150-15 zł za noc, czyli 135 zł za noc, czyli 1350 zł.
 '''
 
-younger_rate = 100
-adult_1_night_rate = 200
-adult_2_5_nights_rate = 180
-adult_5_plus_nights_rate = 150
 
-header = "Accomodation pricing calculator"
-explanation = """Program will calculate total cost of your acoomodation"""
+while True:
 
-print(f'{header:*^40}')
-print()
-print(f'{explanation}')
+    header = "Accomodation pricing calculator"
+    header_2 = """Program will calculate total cost of your acoomodation"""
+
+    print(f'{header:*^40}')
+    print()
+    print(f'{header_2}')
+    print()
+    age = int(input('Please, enter your age: '))
+
+    nights = int(input('How many nights are you going to spend with us ? '))
 
 
+
+    younger_price = 100 * nights
+    adult_1_night_price = 200 * nights
+    adult_2_5_nights_price = 180 * nights
+    adult_5_plus_nights_price = 150 * nights
+    senior_1_price = adult_1_night_price * 0.9
+    senior_2_5_nights_price = adult_2_5_nights_price * 0.9
+    senior_5_plus_nights_price = adult_5_plus_nights_price * 0.9
+
+
+    if nights == 1:
+        if age < 18:
+            print(f'Total price for your accomodation will be {younger_price} PLN')
+            break
+        elif 18 <= age < 65:
+            print(f'Total price for your accomodation will be {adult_1_night_price} PLN')
+            break
+        elif age > 65:
+            print(f'Total price for your accomodation will be {senior_1_price} PLN')
+            break
+        else:
+            print('Something wet wrong, try again')
+            continue
+
+    elif 2 <= nights < 5:
+        if age < 18:
+            print(f'Total price for your accomodation will be {younger_price} PLN')
+            break
+        elif 18 <= age < 65:
+            print(f'Total price for your accomodation will be {adult_2_5_nights_price} PLN')
+            break
+        elif age > 65:
+            print(f'Total price for your accomodation will be {senior_2_5_nights_price} PLN')
+            break
+        else:
+            print('Something wet wrong, try again')
+            continue
+
+    elif nights >= 5:
+        if age < 18:
+            print(f'Total price for your accomodation will be {younger_price} PLN')
+            break
+        elif 18 <= age < 65:
+            print(f'Total price for your accomodation will be {adult_5_plus_nights_price} PLN')
+            break
+        elif age > 65:
+            print(f'Total price for your accomodation will be {senior_5_plus_nights_price} PLN')
+            break
+        else:
+            print('Something wet wrong, try again')
+            continue
+
+    else:
+        print('Please try again, you entered wrong data')
+        continue
 
 
 
