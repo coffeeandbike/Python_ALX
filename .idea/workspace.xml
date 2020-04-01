@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections_gw/zad_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/collections_gw/zad_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,27 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.zad_1_2">
+    <configuration name="zad_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_ALX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collections_gw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collections_gw/zad_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="zad_1_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,6 +125,7 @@
       <list>
         <item itemvalue="Python.zad_1_2" />
         <item itemvalue="Python.zad_1_3" />
+        <item itemvalue="Python.zad_1" />
         <item itemvalue="Python.zad_1_1" />
       </list>
     </recent_temporary>
@@ -152,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585662719020</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="folders commit">
+      <created>1585727585093</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585727585093</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,51 +192,51 @@
     <option name="LAST_COMMIT_MESSAGE" value="folders commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="32" key="CommitChangelistDialog2" timestamp="1585662715144">
+    <state x="361" y="32" key="CommitChangelistDialog2" timestamp="1585742650972">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="32" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585662715144" />
+    <state x="361" y="32" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585742650972" />
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1585657918631" />
     <state x="151" y="112" key="DiffContextDialog" timestamp="1585657915273">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="151" y="112" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1585657915273" />
-    <state width="1515" height="286" key="GridCell.Tab.0.bottom" timestamp="1585727254649">
+    <state width="802" height="286" key="GridCell.Tab.0.bottom" timestamp="1585742673837">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585727254649" />
+    <state width="802" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585742673837" />
     <state width="1379" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585595011575" />
-    <state width="1515" height="286" key="GridCell.Tab.0.center" timestamp="1585727254649">
+    <state width="802" height="286" key="GridCell.Tab.0.center" timestamp="1585742673837">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585727254649" />
+    <state width="802" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585742673837" />
     <state width="1379" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585595011574" />
-    <state width="1515" height="286" key="GridCell.Tab.0.left" timestamp="1585727254649">
+    <state width="802" height="286" key="GridCell.Tab.0.left" timestamp="1585742673837">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585727254649" />
+    <state width="802" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585742673837" />
     <state width="1379" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585595011574" />
-    <state width="1515" height="286" key="GridCell.Tab.0.right" timestamp="1585727254649">
+    <state width="802" height="286" key="GridCell.Tab.0.right" timestamp="1585742673837">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585727254649" />
+    <state width="802" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585742673837" />
     <state width="1379" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585595011575" />
     <state x="257" y="83" key="SettingsEditor" timestamp="1585662165478">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="257" y="83" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585662165478" />
     <state x="241" y="110" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585592416896" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1585727483332">
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1585727611529">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585727483332" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585727611529" />
     <state x="477" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1585662096620">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="477" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585662096620" />
-    <state x="580" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585727407840">
+    <state x="580" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585729311227">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="580" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585727407840" />
+    <state x="580" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585729311227" />
   </component>
 </project>
