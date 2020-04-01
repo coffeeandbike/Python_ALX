@@ -1,0 +1,125 @@
+# Nauka programowania w Pythonie - ćwiczenia domowe
+​
+## 1. Interakcja z użytkownikiem
+​
+### Zadanie 1.1 | Interakcja i proste obliczenia (ok. 2 godz.)
+​
+Napisz program, który prosi użytkownika (przez `input()`), żeby podał, ile kosztuje kilo ziemniaków. Niech program policzy i wyświetli, ile trzeba będzie zapłacić za pięć kilo ziemniaków.
+​
+Potem napisz program, który prosi użytkownika (przez `input()`), żeby podał, ile kosztuje kilo ziemniaków i ile kilo chce kupić. Niech program policzy i wyświetli, ile trzeba będzie zapłacić za te ziemniaki.
+​
+Potem napisz program, który prosi użytkownika (przez `input()`), żeby podał, ile kosztuje kilo ziemniaków, ile kilo ziemniaków chce kupić, ile kosztuje kilo bananów i ile kilo bananów chce kupić. Niech program policzy i wyświetli, ile trzeba będzie zapłacić za te ziemniaki i banany razem. I niech program sprawdzi i powie, za co trzeba będzie zapłacić więcej - za banany czy za ziemniaki.
+​
+### Zadanie 1.2 | Buty do szewca (ok. 1 godz.)
+​
+Napisz taki program: użytkownik ma podać, w jaki dzień tygodnia oddał buty do szewca (poniedziałek to dzień 1, wtorek to dzień 2 itp.). Ma też podać, ile dni będzie trwała naprawa. 
+​
+Program ma wypisać, w jaki dzień tygodnia buty będą gotowe do odbioru. Jeśli tak będzie ci wygodniej, możesz założyć, że naprawa butów nigdy nie będzie trwała dłużej niż siedem dni.
+​
+### Zadanie 1.3 | Współczynnik BMI (ok. 2 godz.)
+​
+Napisz program, który dla podanych liczb: wzrostu w cm i masy ciała w kg obliczą i wypisze współczynnik BMI, oraz podsumowanie informujące o stanie/zaleceniach. (Informacje o BMI: wzór, interpretację wyników, proszę znaleźć samodzielnie). 
+​
+### Zadanie 1.4 | Opłata hotelowa (ok 1,5 godz.)
+​
+Potem napisz taki program: użytkownik podaje swój wiek i ile nocy spędzi w hotelu, a program wylicza, ile trzeba zapłacić. Zasady są takie:
+​
+- nieletni (poniżej 18 roku życia) płacą 100 zł za noc
+- dorośli (ci, którzy mają przynajmniej 18 lat ale mniej niż 65 lat) płacą:
+	- 200 zł za noc, jeśli nocują jedną noc
+	- 180 zł za noc, jeśli nocują przynajmniej dwie ale mniej niż pięć nocy
+	- 150 zł za noc, jeśli nocują pięć lub więcej nocy
+- emeryci (ci, którzy mają przynajmniej 65 lat), płacą jak dorośli, ale z 10% zniżki
+​
+Przykładowo: jeśli użytkownik ma 70 lat i spędzi w hotelu dziesięć nocy, zapłaci 150 zł za noc z 10% zniżki, czyli 150-15 zł za noc, czyli 135 zł za noc, czyli 1350 zł.
+​
+### Zadanie 1.5 | Pole trójkąta (ok. 1 godz.)
+​
+Program, który odczytuje trzy liczby, sprawdza czy liczby te mogą stanowić boki trójkąta (np. z 2, 2 i 5 nie da się ułożyć trójkąta, prawa?), a jeśli mogą, oblicza pole powierzchni trójkąta o takich bokach. 
+​
+Wykorzystaj trzeci wzór z [listy](https://www.matemaks.pl/wzory-na-pole-trojkata.html).
+​
+Tutaj użyj jednego z poznanych sposobów komunikacji z użytkownikiem. Pierwiastek kwadratowy to:
+​
+```
+import math
+​
+x = math.sqrt(10)
+```
+​
+### Zadanie 1.6 | Bilety (ok. 1 godz.)
+​
+Założenia:
+	- 0-6   - wiek przedszkolny - cena biletu: 0
+	- 7-17  - wiek szkolny      - cena biletu: 2.28
+	- 18-64 - wiek dorosły      - cena biletu: 3.80
+	- +65   - wiek emerytalny   - cena biletu: 1.90
+​
+Napisz program, który przyjmuje dwie informacje: jaki jest wiek osoby kupującej bilety i ile biletów chce kupić. 
+​
+Na tej podstawie i powyższych założeń policz ile zapłaci za bilety, które chce kupić. Wczytywanie danych i ich wyświetlenie zrealizuj za pomocą konsoli. 
+​
+### Zadanie 1.7 | Liczenie cen (ok. 0,5 godz.)
+​
+Przy pomocy `input()` zapytaj użytkownika co chce kupić, jaką ilość towaru chce kupić i jaka jest jego cena. Wyświetl odpowiedni komunikat. 
+​
+Przykład:
+Co chcesz kupić? - ziemniaki
+Podaj cenę towaru - 5
+Podaj ilość towaru - 10
+​
+Za ziemniaki, który chcesz kupić, zapłacisz 50 zł
+​
+### Zadanie 1.8 | Kalkulator lat psich (ok. 0,5 godz.)
+​
+Zakładamy, że 1 ludzki rok, to 5 lat psich. 
+​
+Za pomocą konsoli wczytaj imię i wiek psa. 
+​
+Wypisz komunikat ile pies miałby lat gdyby był człowiekiem. 
+​
+Przykład:
+Podaj imię psa - Burek
+Podaj wiek psa - 3
+​
+Gdyby Burek był człowiekiem, miałby 15 lat. 
+​
+### Zadanie 1.9 FizzBuzz
+​
+Napisz program, który wyświetla liczby od 1 do 100. Dla liczb podzielnych przez 3 niech program wyświetli `Fizz`; dla liczb podzielnych przez 5 niech wyświetli `Buzz`; a dla liczb podzielnych przez 15 niech wyświetli `FizzBuzz`.
+​
+## 2. Pętle i struktury danych
+​
+### Zadanie 2.1 | Zagadka matematyczna 
+​
+Program losuje dwie liczby z zakresu od 0 do 99 (patrz poniżej). Podaje te dwie liczby i pyta jaka jest ich suma (nie podaje jej). Użytkownik ma odgadnąć (no, policzyć w głowie) wynik. Program pyta o wynik wielokrotnie, tak długo, aż użytkownik poda prawidłowy wynik.
+​
+### Zadanie 2.2 | Choinka
+​
+Napisz program, który wczytuje liczbę całkowitą, a następnie na konsolę wypisuje w tylu liniach "choinkę" ze znaków `*`. Np. dla parametru 3 powinno się wypisać:
+​
+```
+    *
+  * * *
+* * * * *
+```
+​
+### Zadanie 2.3
+​
+Napisz program, który odczytuje od użytkownika wiele liczb.
+​
+Program powinien wyliczyć i na końcu wypisać następujące statystyki: 
+​
+- liczba podanych liczb (ile sztuk), 
+- suma, 
+- średnia, 
+- minimum
+- maksimum
+​
+NIE używaj funkcji wbudowanych!
+​
+### Zadanie 2.4 | Zgadnij liczbę z zakresu
+​
+Program losuje liczbę z zakresu od 0 do 999. Użytkownik ma zgadnąć tę liczbę nie widząc jej. Kiedy użytkownik poda nieprawidłowy wynik, program podpowiada pisząc czy podana liczba była za duża, czy za mała. Gdy użytkownik poda właściwą liczbę, program wypisuje gratulacje jednocześnie informując, w której próbie udało się zgadnąć liczbę.
+​
+Nawiasem mówiąc technika wyszukiwania oparta o "podpowiedzi" za dużo/za mało nazywa się bisekcją i pełni w informatyce bardzo ważną rolę. Umiejętnie ją stosując powinno się te zagadki rozwiązywać w 9-10 próbach (bo 2^10=1024).
