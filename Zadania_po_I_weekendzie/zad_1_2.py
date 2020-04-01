@@ -70,4 +70,3 @@ print()
 
 pozegnanie = "ZAPRASZAMY PO ODBIOR, DO WIDZENIA"
 print(f'{pozegnanie:_^40}')
-
