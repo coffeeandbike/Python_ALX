@@ -51,7 +51,7 @@ while True:
             print(f'Total price for your accomodation will be {senior_1_price} PLN')
             break
         else:
-            print('Something wet wrong, try again')
+            print('Something went wrong, try again')
             continue
 
     elif 2 <= nights < 5:
@@ -65,7 +65,7 @@ while True:
             print(f'Total price for your accomodation will be {senior_2_5_nights_price} PLN')
             break
         else:
-            print('Something wet wrong, try again')
+            print('Something went wrong, try again')
             continue
 
     elif nights >= 5:
@@ -79,7 +79,7 @@ while True:
             print(f'Total price for your accomodation will be {senior_5_plus_nights_price} PLN')
             break
         else:
-            print('Something wet wrong, try again')
+            print('Something went wrong, try again')
             continue
 
     else:
