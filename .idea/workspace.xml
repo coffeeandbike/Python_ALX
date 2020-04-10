@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_2_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,49 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.zad_1_9">
-    <configuration name="zad_1_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_ALX" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadania_po_I_weekendzie" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zad_1_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_ALX" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadania_po_I_weekendzie" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.zad_2_1">
     <configuration name="zad_1_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,13 +98,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="zad_2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_ALX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadania_po_I_weekendzie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_2_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zadanie_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_ALX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics_gw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics_gw/zadanie_15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.zad_2_1" />
+        <item itemvalue="Python.zadanie_15" />
         <item itemvalue="Python.zad_1_9" />
         <item itemvalue="Python.zad_1_9_v2" />
         <item itemvalue="Python.zad_1_5" />
-        <item itemvalue="Python.zad_1_4" />
-        <item itemvalue="Python.zad_1_2" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585766448313</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="folder">
+      <created>1586455771846</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586455771846</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,40 +215,41 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="313" y="124" key="#Inspections/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585765986826" />
-    <state x="338" y="76" key="CommitChangelistDialog2" timestamp="1585766448058">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="361" y="24" key="CommitChangelistDialog2" timestamp="1586455769355">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586455769355" />
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585766448058" />
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1585657918631" />
     <state x="151" y="112" key="DiffContextDialog" timestamp="1585657915273">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="151" y="112" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1585657915273" />
-    <state width="800" height="286" key="GridCell.Tab.0.bottom" timestamp="1586455745106">
+    <state width="799" height="286" key="GridCell.Tab.0.bottom" timestamp="1586519196214">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="800" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586455745106" />
+    <state width="799" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586519196214" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220604" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281745" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585934227822" />
-    <state width="800" height="286" key="GridCell.Tab.0.center" timestamp="1586455745106">
+    <state width="799" height="286" key="GridCell.Tab.0.center" timestamp="1586519196214">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="800" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586455745106" />
+    <state width="799" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586519196214" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220603" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585934227821" />
-    <state width="800" height="286" key="GridCell.Tab.0.left" timestamp="1586455745106">
+    <state width="799" height="286" key="GridCell.Tab.0.left" timestamp="1586519196214">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="800" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586455745106" />
+    <state width="799" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586519196214" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220602" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585934227820" />
-    <state width="800" height="286" key="GridCell.Tab.0.right" timestamp="1586455745106">
+    <state width="799" height="286" key="GridCell.Tab.0.right" timestamp="1586519196214">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="800" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586455745106" />
+    <state width="799" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586519196214" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220603" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281744" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585934227821" />
@@ -250,17 +258,23 @@
     </state>
     <state x="257" y="83" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586454451226" />
     <state x="241" y="110" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585592416896" />
-    <state x="313" y="198" key="Vcs.Push.Dialog.v2" timestamp="1585766459082">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="334" y="166" key="Vcs.Push.Dialog.v2" timestamp="1586455778105">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="334" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586455778105" />
     <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585766459082" />
     <state x="2070" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585758920386">
       <screen x="1440" y="-73" width="1920" height="1057" />
     </state>
     <state x="2070" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585758920386" />
-    <state x="378" y="220" width="670" height="676" key="search.everywhere.popup" timestamp="1585934927183">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="361" y="76" key="scopes" timestamp="1586517710914">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="361" y="76" key="scopes/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586517710914" />
+    <state x="403" y="187" width="715" height="643" key="search.everywhere.popup" timestamp="1586516616485">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="403" y="187" width="715" height="643" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586516616485" />
     <state x="378" y="220" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1585934927183" />
   </component>
 </project>
