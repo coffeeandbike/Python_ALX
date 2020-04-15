@@ -13,34 +13,61 @@ Program powinien wyliczyć i na końcu wypisać następujące statystyki:
 NIE używaj funkcji wbudowanych!
 '''
 
-liczby = []
+min = None
+max = None
+suma = 0
+roznica = 0
+licznik = 1
+licznik_liczb = 0
+srednia = 0
+start = 0
+
 
 while True:
 
-    liczba = float(input("Dodaj liczne calkowita lub zmiennoprzecinkowa do listy liczb: "))
-    liczby.append(liczba)
-    print(liczby)
+    wejscie = input("''Podaj liczne calkowita lub wpisz 'koniec' zeby zakonczyc"
+                    "i wyswietlic podsumowanie: """)
 
-    co_dalej = input("""Jesli chcesz przejsc do podsumowania, wcisnij 'p' ,
-    jesli chcesz podaj nastepna liczne wcisnij 'n' """)
-
-
-
-    if co_dalej == 'p':
-        print()
-        print(f"Podales {len(liczby)} liczb\n")
-        print(f"Najwieksza liczba z listy to {max(liczby)}\n")
-        print(f"Najmniejsza liczba z listy to {min(liczby)}\n")
-        print(f"Suma liczb z listy to {sum(liczby)}\n")
-        print(f"Srednia podanych liczb z listy to {sum(liczby) / len(liczby):.3f}\n")
-        break
-    elif co_dalej == 'n':
-        continue
-    else:
-        print("Ups, wcisnales nie ten klawisz, konczymy zabawe")
+    if wejscie == 'koniec':
         break
 
+    #liczba = int(wejscie)
+
+    if wejscie.isdecimal() is False:  # sprawdzamy czy dane wejsciowe sa liczba dziesietna
+        print("Niepoprawne dane")
+        continue  # wracamy do poczatku petli
+
+    elif wejscie.isdecimal() is True:
+
+        liczba = int(wejscie)
+
+        if min is None or liczba < min:
+            min = liczba
 
 
+        if max is None or liczba > max:
+            max = liczba
 
 
+        if licznik == 1:
+            roznica = start + liczba
+
+        if licznik > 1:
+            roznica -= liczba
+
+        suma += liczba
+        srednia = suma / licznik
+        licznik += 1
+        licznik_liczb += 1
+
+
+if min is None or max is None:
+    print ("Nie podales zadnej liczby - uruchom program ponownie")
+
+else:
+    print(f"Znalezione minimum to: {min}")
+    print(f"Znalezione maximum to: {max}")
+    print(f"Suma liczb to: {suma}")
+    print(f"Roznica liczb to: {roznica}")
+    print(f"Średnia liczb to: {srednia}")
+    print(f"Ilosc podanych liczb to: {licznik_liczb}")
