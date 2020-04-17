@@ -8,6 +8,8 @@ Gdy użytkownik poda właściwą liczbę, program wypisuje gratulacje jednocześ
 from random import randint
 import time
 
+counter = 0
+
 title = "Guess the number"
 header ="Your task is to guess the number from range 0-999"
 print(f'{title:*^40}\n')
@@ -26,18 +28,22 @@ hidden_number = randint(0,999)
 print("The hidden number has been drawn")
 
 while True:
+
     your_number = int(input("Please try guess the number: "))
 
     if your_number > hidden_number:
         print("Your number is greater than number to guess")
+        counter += 1
         continue
 
     if your_number < hidden_number:
         print("Your number is smaller than number to guess")
+        counter += 1
         continue
 
     if your_number == hidden_number:
         print("You are great, you guessed the hidden number")
+        print(f'You needed {counter} tries to guess')
         time.sleep(1)
         print("This is the End")
         break
