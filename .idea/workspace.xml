@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/weekend_II/liczenie_samoglosek_w_napisie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_2_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.zad_2_4">
+  <component name="RunManager" selected="Python.liczenie_samoglosek_w_napisie">
+    <configuration name="liczenie_samoglosek_w_napisie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_ALX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weekend_II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weekend_II/liczenie_samoglosek_w_napisie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="odejmowanie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -48,27 +69,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics_gw/odejmowanie.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zad_2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_ALX" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadania_po_I_weekendzie" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_2_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.liczenie_samoglosek_w_napisie" />
         <item itemvalue="Python.zad_2_4" />
         <item itemvalue="Python.zad_2_3" />
         <item itemvalue="Python.odejmowanie" />
         <item itemvalue="Python.zadanie_14" />
-        <item itemvalue="Python.zad_2_1" />
       </list>
     </recent_temporary>
   </component>
@@ -224,23 +224,31 @@
       <option name="project" value="LOCAL" />
       <updated>1587105291261</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="task finished">
+      <created>1587105688574</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587105688574</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="folder" />
     <MESSAGE value="task finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="task finished" />
+    <MESSAGE value="task finished - counter added." />
+    <option name="LAST_COMMIT_MESSAGE" value="task finished - counter added." />
   </component>
   <component name="WindowStateProjectService">
     <state x="313" y="124" key="#Inspections" timestamp="1585765986826">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="313" y="124" key="#Inspections/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585765986826" />
-    <state x="361" y="24" key="CommitChangelistDialog2" timestamp="1587105288530">
+    <state x="361" y="24" key="CommitChangelistDialog2" timestamp="1587105723992">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587105288530" />
+    <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587105723992" />
     <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971304939" />
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585766448058" />
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1585657918631" />
@@ -248,37 +256,41 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="151" y="112" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1585657915273" />
-    <state width="906" height="286" key="GridCell.Tab.0.bottom" timestamp="1587105588831">
+    <state x="548" y="172" key="FileChooserDialogImpl" timestamp="1587114291337">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="906" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587105588831" />
+    <state x="548" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587114291337" />
+    <state width="905" height="286" key="GridCell.Tab.0.bottom" timestamp="1587195269399">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="905" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587195269399" />
     <state width="907" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971188697" />
     <state width="906" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587102870054" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220604" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281745" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585934227822" />
-    <state width="906" height="286" key="GridCell.Tab.0.center" timestamp="1587105588831">
+    <state width="905" height="286" key="GridCell.Tab.0.center" timestamp="1587195269399">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="906" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587105588831" />
+    <state width="905" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587195269399" />
     <state width="907" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971188697" />
     <state width="906" height="286" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587102870054" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220603" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585934227821" />
-    <state width="906" height="286" key="GridCell.Tab.0.left" timestamp="1587105588831">
+    <state width="905" height="286" key="GridCell.Tab.0.left" timestamp="1587195269399">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="906" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587105588831" />
+    <state width="905" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587195269399" />
     <state width="907" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971188697" />
     <state width="906" height="286" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587102870053" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220602" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585934227820" />
-    <state width="906" height="286" key="GridCell.Tab.0.right" timestamp="1587105588831">
+    <state width="905" height="286" key="GridCell.Tab.0.right" timestamp="1587195269399">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="906" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587105588831" />
+    <state width="905" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587195269399" />
     <state width="907" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971188697" />
     <state width="906" height="286" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587102870054" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220603" />
@@ -293,10 +305,10 @@
     </state>
     <state x="257" y="83" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586454451226" />
     <state x="241" y="110" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585592416896" />
-    <state x="334" y="166" key="Vcs.Push.Dialog.v2" timestamp="1587105310003">
+    <state x="334" y="166" key="Vcs.Push.Dialog.v2" timestamp="1587105738716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="334" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587105310003" />
+    <state x="334" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587105738716" />
     <state x="334" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971320049" />
     <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585766459082" />
     <state x="2070" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585758920386">
