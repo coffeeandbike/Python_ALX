@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/weekend_II/zbiory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekend_II/zbiory_zlicznie_unikalnych_liczb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekend_II/wyrazenia_listowe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekend_II/zad_12_wyrazenia_listowe_slownikowe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
       <recent name="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.zbiory_zlicznie_unikalnych_liczb">
+  <component name="RunManager" selected="Python.zad_12_wyrazenia_listowe_slownikowe">
     <configuration name="liczenie_wystapien_kazdego_znaku_w_napisie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weekend_II/liczenie_wystapien_kazdego_znaku_w_napisie.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\kolekcje_part_2\liczenie_wystapien_kazdego_znaku_w_napisie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="slownik_towary_w_sklepie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="wyrazenia_listowe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weekend_II/slownik_towary_w_sklepie.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\kolekcje_part_2\wyrazenia_listowe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="slowniki" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zad_12_wyrazenia_listowe_slownikowe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weekend_II/slowniki.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\kolekcje_part_2\zad_12_wyrazenia_listowe_slownikowe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weekend_II/zbiory.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\kolekcje_part_2\zbiory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weekend_II/zbiory_zlicznie_unikalnych_liczb.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\kolekcje_part_2\zbiory_zlicznie_unikalnych_liczb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.zad_12_wyrazenia_listowe_slownikowe" />
+        <item itemvalue="Python.wyrazenia_listowe" />
         <item itemvalue="Python.zbiory_zlicznie_unikalnych_liczb" />
         <item itemvalue="Python.zbiory" />
         <item itemvalue="Python.liczenie_wystapien_kazdego_znaku_w_napisie" />
-        <item itemvalue="Python.slownik_towary_w_sklepie" />
-        <item itemvalue="Python.slowniki" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587203893433</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="task finished">
+      <created>1587207408574</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1587207408574</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -301,10 +308,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="313" y="124" key="#Inspections/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585765986826" />
-    <state x="361" y="24" key="CommitChangelistDialog2" timestamp="1587203891142">
+    <state x="361" y="24" key="CommitChangelistDialog2" timestamp="1587207406349">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587203891142" />
+    <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587207406349" />
     <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971304939" />
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585766448058" />
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1585657918631" />
@@ -316,37 +323,37 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="548" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587114291337" />
-    <state width="903" height="286" key="GridCell.Tab.0.bottom" timestamp="1587207365634">
+    <state width="903" height="286" key="GridCell.Tab.0.bottom" timestamp="1587212851443">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="903" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587207365634" />
+    <state width="903" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587212851443" />
     <state width="907" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971188697" />
     <state width="906" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587102870054" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220604" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281745" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585934227822" />
-    <state width="903" height="286" key="GridCell.Tab.0.center" timestamp="1587207365634">
+    <state width="903" height="286" key="GridCell.Tab.0.center" timestamp="1587212851443">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="903" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587207365634" />
+    <state width="903" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587212851443" />
     <state width="907" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971188697" />
     <state width="906" height="286" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587102870054" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220603" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585934227821" />
-    <state width="903" height="286" key="GridCell.Tab.0.left" timestamp="1587207365634">
+    <state width="903" height="286" key="GridCell.Tab.0.left" timestamp="1587212851442">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="903" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587207365634" />
+    <state width="903" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587212851442" />
     <state width="907" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971188697" />
     <state width="906" height="286" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587102870053" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220602" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585934227820" />
-    <state width="903" height="286" key="GridCell.Tab.0.right" timestamp="1587207365634">
+    <state width="903" height="286" key="GridCell.Tab.0.right" timestamp="1587212851443">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="903" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587207365634" />
+    <state width="903" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587212851443" />
     <state width="907" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971188697" />
     <state width="906" height="286" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587102870054" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220603" />
@@ -377,10 +384,10 @@
     </state>
     <state x="257" y="83" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586454451226" />
     <state x="241" y="110" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585592416896" />
-    <state x="334" y="166" key="Vcs.Push.Dialog.v2" timestamp="1587203909000">
+    <state x="334" y="166" key="Vcs.Push.Dialog.v2" timestamp="1587207424050">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="334" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587203909000" />
+    <state x="334" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587207424050" />
     <state x="334" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971320049" />
     <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585766459082" />
     <state x="2070" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585758920386">
