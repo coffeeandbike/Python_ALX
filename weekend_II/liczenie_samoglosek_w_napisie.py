@@ -11,7 +11,7 @@ samogloski = ('a','e','i','o','u')
 
 licznik = 0
 
-napis = input("Wpisz napis w ktorym chcesz policzyc samogloski: ")
+napis = input("Wpisz napis w ktorym chcesz policzyc samogloski: ") #mozna te tutaj dodac .lowe()
 '''
 for litera in napis:
     if litera == 'a' or litera == 'e' or litera == 'i' or litera == 'o' or litera == 'u':
