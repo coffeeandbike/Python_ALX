@@ -17,7 +17,7 @@ napis = input("Podaj napis: ")
 # uzyjemy tu metody count ktora zlicza wystapienia danego czegos
 if napis.count('<') != 1 or napis.count('>') != 1:
     print("Nieprawidlowa ilosc nawiasiow !!!")
-    exit()
+    exit() #konczymy program
 
 liczna_znakow = 0
 
