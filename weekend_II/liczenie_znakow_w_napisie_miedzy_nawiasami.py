@@ -14,6 +14,7 @@ Ala ma <kota>, a kot ma Alę
 
 napis = input("Podaj napis: ")
 
+# uzyjemy tu metody count ktora zlicza wystapienia danego czegos
 if napis.count('<') != 1 or napis.count('>') != 1:
     print("Nieprawidlowa ilosc nawiasiow !!!")
     exit()
