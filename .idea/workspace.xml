@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/weekend_II/wyrazenia_listowe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekend_II/zad_12_wyrazenia_listowe_slownikowe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekend_II/fukcje/intro_do_funkcji.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekend_II/fukcje/zad_1_kalkulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekend_II/fukcje/zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekend_II/fukcje/zad_3_zwracanie_zbioru_znakow_ver_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_ALX.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_ALX.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,16 +36,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/weekend_II" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/weekend_II/fukcje" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\fukcje" />
+      <recent name="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\kolekcje_part_2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\fukcje" />
       <recent name="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.zad_12_wyrazenia_listowe_slownikowe">
-    <configuration name="liczenie_wystapien_kazdego_znaku_w_napisie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest in zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.py">
+    <configuration name="zad_3_zwracanie_zbioru_znakow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weekend_II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weekend_II/fukcje" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\kolekcje_part_2\liczenie_wystapien_kazdego_znaku_w_napisie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weekend_II/fukcje/zad_3_zwracanie_zbioru_znakow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wyrazenia_listowe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zad_3_zwracanie_zbioru_znakow_ver_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weekend_II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weekend_II/fukcje" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\kolekcje_part_2\wyrazenia_listowe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weekend_II/fukcje/zad_3_zwracanie_zbioru_znakow_ver_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,76 +92,65 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad_12_wyrazenia_listowe_slownikowe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.test_liczby_nie_pierwsze_dodatnie" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weekend_II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weekend_II/fukcje" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\kolekcje_part_2\zad_12_wyrazenia_listowe_slownikowe.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.test_liczby_nie_pierwsze_dodatnie&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="zbiory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.test_liczny_nie_pierwsze_ujemne" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weekend_II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weekend_II/fukcje" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\kolekcje_part_2\zbiory.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.test_liczny_nie_pierwsze_ujemne&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="zbiory_zlicznie_unikalnych_liczb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weekend_II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weekend_II/fukcje" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\gwozniak\PycharmProjects\Python_ALX\weekend_II\kolekcje_part_2\zbiory_zlicznie_unikalnych_liczb.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/weekend_II/fukcje/zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.zad_3_zwracanie_zbioru_znakow" />
+      <item itemvalue="Python.zad_3_zwracanie_zbioru_znakow_ver_2" />
+      <item itemvalue="Python tests.pytest for zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.test_liczny_nie_pierwsze_ujemne" />
+      <item itemvalue="Python tests.pytest for zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.test_liczby_nie_pierwsze_dodatnie" />
+      <item itemvalue="Python tests.pytest in zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.py" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zad_12_wyrazenia_listowe_slownikowe" />
-        <item itemvalue="Python.wyrazenia_listowe" />
-        <item itemvalue="Python.zbiory_zlicznie_unikalnych_liczb" />
-        <item itemvalue="Python.zbiory" />
-        <item itemvalue="Python.liczenie_wystapien_kazdego_znaku_w_napisie" />
+        <item itemvalue="Python tests.pytest in zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.py" />
+        <item itemvalue="Python tests.pytest for zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.test_liczby_nie_pierwsze_dodatnie" />
+        <item itemvalue="Python tests.pytest for zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.test_liczny_nie_pierwsze_ujemne" />
+        <item itemvalue="Python.zad_3_zwracanie_zbioru_znakow_ver_2" />
+        <item itemvalue="Python.zad_3_zwracanie_zbioru_znakow" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587207408574</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="task finished">
+      <created>1587213009184</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587213009184</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -308,10 +312,14 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="313" y="124" key="#Inspections/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585765986826" />
-    <state x="361" y="24" key="CommitChangelistDialog2" timestamp="1587207406349">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587222481917">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587207406349" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587222481917" />
+    <state x="361" y="24" key="CommitChangelistDialog2" timestamp="1587213006671">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587213006671" />
     <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971304939" />
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585766448058" />
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1585657918631" />
@@ -323,37 +331,37 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="548" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587114291337" />
-    <state width="903" height="286" key="GridCell.Tab.0.bottom" timestamp="1587212851443">
+    <state width="901" height="286" key="GridCell.Tab.0.bottom" timestamp="1587281056251">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="903" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587212851443" />
+    <state width="901" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587281056251" />
     <state width="907" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971188697" />
     <state width="906" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587102870054" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220604" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281745" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585934227822" />
-    <state width="903" height="286" key="GridCell.Tab.0.center" timestamp="1587212851443">
+    <state width="901" height="286" key="GridCell.Tab.0.center" timestamp="1587281056250">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="903" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587212851443" />
+    <state width="901" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587281056250" />
     <state width="907" height="286" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971188697" />
     <state width="906" height="286" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587102870054" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220603" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585934227821" />
-    <state width="903" height="286" key="GridCell.Tab.0.left" timestamp="1587212851442">
+    <state width="901" height="286" key="GridCell.Tab.0.left" timestamp="1587281056250">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="903" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587212851442" />
+    <state width="901" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587281056250" />
     <state width="907" height="286" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971188697" />
     <state width="906" height="286" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587102870053" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220602" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585934227820" />
-    <state width="903" height="286" key="GridCell.Tab.0.right" timestamp="1587212851443">
+    <state width="901" height="286" key="GridCell.Tab.0.right" timestamp="1587281056250">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="903" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587212851443" />
+    <state width="901" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587281056250" />
     <state width="907" height="286" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971188697" />
     <state width="906" height="286" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587102870054" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585939220603" />
@@ -379,21 +387,25 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="139" key="RollbackChangesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586951056703" />
-    <state x="257" y="83" key="SettingsEditor" timestamp="1586454451226">
+    <state x="205" y="72" key="SettingsEditor" timestamp="1587218036737">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="257" y="83" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586454451226" />
+    <state x="205" y="72" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587218036737" />
     <state x="241" y="110" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585592416896" />
-    <state x="334" y="166" key="Vcs.Push.Dialog.v2" timestamp="1587207424050">
+    <state x="334" y="166" key="Vcs.Push.Dialog.v2" timestamp="1587213016209">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="334" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587207424050" />
+    <state x="334" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587213016209" />
     <state x="334" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971320049" />
     <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585766459082" />
     <state x="2070" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585758920386">
       <screen x="1440" y="-73" width="1920" height="1057" />
     </state>
     <state x="2070" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585758920386" />
+    <state x="209" y="-193" width="738" height="909" key="find.popup" timestamp="1587222133473">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="-193" width="738" height="909" key="find.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587222133473" />
     <state x="361" y="76" key="scopes" timestamp="1586517710914">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
