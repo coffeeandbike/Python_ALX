@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/weekend_II/fukcje/funkcja_do_liczenia_sredniej_z_wykorzystaniem_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekend_II/fukcje/rekurencja.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekend_II/fukcje/zad_4_liczenie znakow_w_zadanym_napisie_pomiedzy_zadanymi_znakami.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekend_II/fukcje/zad_6_funkcja_formatujaca_podane_napisy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekend_II/fukcje/zad_7_funkcja_do_liczenia_silni.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekend_II/fukcje/zad_7_przyklad_z_wyjatkiem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekend_II/fukcje/zad_8_funkcja_ciag_fibonacciego.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekend_II/fukcje/zad_9_funkcja_splaszczajaca_liste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadania_po_II_weekendzie/zadania.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekend_II/fukcje/intro_do_funkcji.py" beforeDir="false" afterPath="$PROJECT_DIR$/weekend_II/fukcje/intro_do_funkcji.py" afterDir="false" />
-    </list>
+    <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -329,14 +317,22 @@
       <option name="project" value="LOCAL" />
       <updated>1587281636305</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="caly folder update">
+      <created>1587388650758</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1587388650759</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="folder" />
     <MESSAGE value="task finished - counter added." />
     <MESSAGE value="task finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="task finished" />
+    <MESSAGE value="caly folder update" />
+    <option name="LAST_COMMIT_MESSAGE" value="caly folder update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="313" y="124" key="#Inspections" timestamp="1585765986826">
@@ -347,10 +343,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587305877023" />
-    <state x="361" y="24" key="CommitChangelistDialog2" timestamp="1587281633372">
+    <state x="361" y="24" key="CommitChangelistDialog2" timestamp="1587388676770">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587281633372" />
+    <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587388676770" />
     <state x="361" y="24" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1586971304939" />
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585766448058" />
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1585657918631" />
