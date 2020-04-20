@@ -1,0 +1,11 @@
+
+#silnia(5)
+#to jest tez:
+# 5*silnia(4)
+# 5*4*silnia(3)
+# 5*4*3*silnia(2)
+# 5*4*3*2*silnia(1)
+
+#zadanie trzeba podzielic na mniejsze kawalki, na  prostsze zadania
+#zbieramy wyniki
+#oddajemy globalny wynik
