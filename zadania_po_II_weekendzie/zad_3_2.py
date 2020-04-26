@@ -47,7 +47,7 @@ while True:
         dlugosc_miesiaca = oblicz_dlugosc_misiaca(miesiac_lower)
 
         #prezentacja wyniku
-        print(f"Dlugosc miesiaca: {miesiac} to {dlugosc_miesiaca} dni\n KONIEC")
+        print(f"Dlugosc miesiaca: {miesiac.capitalize()} to {dlugosc_miesiaca} dni\n KONIEC")
         break
 
     # obsluga wyjatku

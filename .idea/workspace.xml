@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zadania_po_II_weekendzie/zad_3_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest in zad_3_2.py">
+  <component name="RunManager" selected="Python.zad_3_2">
     <configuration name="zad_3_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,31 +94,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in zad_3_2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Python_ALX" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zadania_po_II_weekendzie" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/zadania_po_II_weekendzie/zad_3_2.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.zad_3_1" />
       <item itemvalue="Python.zad_3_2" />
       <item itemvalue="Python.zad_7_przyklad_z_wyjatkiem" />
-      <item itemvalue="Python tests.pytest in zad_3_2.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in zad_3_2.py" />
         <item itemvalue="Python.zad_3_2" />
         <item itemvalue="Python.zad_7_przyklad_z_wyjatkiem" />
         <item itemvalue="Python.zad_3_1" />
@@ -202,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587899104807</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="task done">
+      <created>1587909435997</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587909435997</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -216,19 +202,19 @@
     </state>
     <state x="313" y="124" key="#Inspections/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585765986826" />
     <state x="313" y="124" key="#Inspections/0.23.1440.877@0.23.1440.877" timestamp="1587829269534" />
-    <state x="179" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587908785443">
+    <state x="179" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587909452127">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="179" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1587908785443" />
+    <state x="179" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1587909452127" />
     <state x="115" y="133" width="1200" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587828270917">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="115" y="133" width="1200" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1587828270917" />
-    <state x="338" y="51" key="CommitChangelistDialog2" timestamp="1587899104586">
+    <state x="338" y="51" key="CommitChangelistDialog2" timestamp="1587909435817">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1586198684622" />
-    <state x="338" y="51" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1587899104586" />
+    <state x="338" y="51" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1587909435817" />
     <state x="151" y="112" key="DiffContextDialog" timestamp="1585657915273">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
