@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="" />
+    <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/zadania_po_II_weekendzie/zad_3_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,10 +30,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.zad_3_2">
+  <component name="RunManager" selected="Python tests.pytest in zad_3_3.py">
     <configuration name="zad_3_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,6 +77,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="zad_3_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_ALX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zadania_po_II_weekendzie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zadania_po_II_weekendzie/zad_3_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="zad_7_przyklad_z_wyjatkiem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,13 +119,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in zad_3_3.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_ALX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zadania_po_II_weekendzie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zadania_po_II_weekendzie/zad_3_3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.zad_3_1" />
       <item itemvalue="Python.zad_3_2" />
       <item itemvalue="Python.zad_7_przyklad_z_wyjatkiem" />
+      <item itemvalue="Python.zad_3_3" />
+      <item itemvalue="Python tests.pytest in zad_3_3.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in zad_3_3.py" />
+        <item itemvalue="Python.zad_3_3" />
         <item itemvalue="Python.zad_3_2" />
         <item itemvalue="Python.zad_7_przyklad_z_wyjatkiem" />
         <item itemvalue="Python.zad_3_1" />
@@ -188,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587909435997</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="task done">
+      <created>1587909632846</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587909632846</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -202,76 +254,76 @@
     </state>
     <state x="313" y="124" key="#Inspections/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585765986826" />
     <state x="313" y="124" key="#Inspections/0.23.1440.877@0.23.1440.877" timestamp="1587829269534" />
-    <state x="179" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587909452127">
+    <state x="179" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588098192496">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="179" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1587909452127" />
+    <state x="179" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1588098192496" />
     <state x="115" y="133" width="1200" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587828270917">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="115" y="133" width="1200" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1587828270917" />
-    <state x="338" y="51" key="CommitChangelistDialog2" timestamp="1587909435817">
+    <state x="338" y="51" key="CommitChangelistDialog2" timestamp="1587909632700">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="338" y="76" key="CommitChangelistDialog2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1586198684622" />
-    <state x="338" y="51" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1587909435817" />
+    <state x="338" y="51" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1587909632700" />
     <state x="151" y="112" key="DiffContextDialog" timestamp="1585657915273">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="151" y="112" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1585657915273" />
-    <state width="1379" height="265" key="GridCell.Tab.0.bottom" timestamp="1587909184853">
+    <state width="1379" height="265" key="GridCell.Tab.0.bottom" timestamp="1588613718306">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1586283798301" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281745" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100939" />
-    <state width="1379" height="265" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587909184853" />
-    <state width="1379" height="265" key="GridCell.Tab.0.center" timestamp="1587909184852">
+    <state width="1379" height="265" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588613718306" />
+    <state width="1379" height="265" key="GridCell.Tab.0.center" timestamp="1588613718305">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1586283798300" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
-    <state width="1379" height="265" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587909184852" />
-    <state width="1379" height="265" key="GridCell.Tab.0.left" timestamp="1587909184852">
+    <state width="1379" height="265" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588613718305" />
+    <state width="1379" height="265" key="GridCell.Tab.0.left" timestamp="1588613718305">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1586283798300" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
-    <state width="1379" height="265" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587909184852" />
-    <state width="1379" height="265" key="GridCell.Tab.0.right" timestamp="1587909184853">
+    <state width="1379" height="265" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588613718305" />
+    <state width="1379" height="265" key="GridCell.Tab.0.right" timestamp="1588613718306">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1586283798301" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281744" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
-    <state width="1379" height="265" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587909184853" />
-    <state width="1379" height="269" key="GridCell.Tab.1.bottom" timestamp="1587810916111">
+    <state width="1379" height="265" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588613718306" />
+    <state width="1379" height="269" key="GridCell.Tab.1.bottom" timestamp="1588191029351">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="269" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587810916111" />
-    <state width="1379" height="269" key="GridCell.Tab.1.center" timestamp="1587810916110">
+    <state width="1379" height="269" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588191029351" />
+    <state width="1379" height="269" key="GridCell.Tab.1.center" timestamp="1588191029350">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="269" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1587810916110" />
-    <state width="1379" height="269" key="GridCell.Tab.1.left" timestamp="1587810916110">
+    <state width="1379" height="269" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1588191029350" />
+    <state width="1379" height="269" key="GridCell.Tab.1.left" timestamp="1588191029350">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="269" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1587810916110" />
-    <state width="1379" height="269" key="GridCell.Tab.1.right" timestamp="1587810916111">
+    <state width="1379" height="269" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1588191029350" />
+    <state width="1379" height="269" key="GridCell.Tab.1.right" timestamp="1588191029351">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="269" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1587810916111" />
+    <state width="1379" height="269" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1588191029351" />
     <state x="241" y="110" key="SettingsEditor" timestamp="1585592416896">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="241" y="110" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585592416896" />
-    <state x="313" y="198" key="Vcs.Push.Dialog.v2" timestamp="1587899189818">
+    <state x="313" y="198" key="Vcs.Push.Dialog.v2" timestamp="1587909647157">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1586198696804" />
-    <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1587899189818" />
+    <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1587909647157" />
     <state x="473" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586196924956">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
