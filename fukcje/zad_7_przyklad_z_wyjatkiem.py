@@ -1,4 +1,4 @@
-from weekend_II.fukcje.zad_7_funkcja_do_liczenia_silni import silnia
+from fukcje.zad_7_funkcja_do_liczenia_silni import silnia
 
 print("Przed liczeniem silni")
 
