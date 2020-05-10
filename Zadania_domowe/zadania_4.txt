@@ -1,0 +1,91 @@
+## 4. Klasy
+​
+### Zadanie 4.1 | Ogłoszenia
+​
+Zaproponuj klasę, w której obiektach będzie się zapisywać ogłoszenia (takie jak w serwisie internetowym z ogłoszeniami).
+​
+Najlepiej, aby klasa `Ogloszenie` opisywała rzeczy, które posiada każde ogłoszenie, m.in. tytuł, opis, cenę, dane kontaktowe sprzedawcy.
+​
+### Zadanie 4.2 | Lista ogłoszeń
+​
+Napisz programy, w których tworzysz listę ogłoszeń samochodowych, a następnie wyszukujesz ogłoszenia na podstawie ich parametrów.
+​
+Na przykład ogłoszenia o cenach z określonego przedziału.
+​
+Użyj funkcji `lambda`, określających, które ogłoszenia powinny zostać wyszukane. Użyj poznanych kolekcji do trzymania ogłoszeń. Możesz zastosować metodę `filter` do wyszukiwania odpowiednich ogłoszeń.
+​
+### Zadanie 4.3 | Pociąg
+​
+Stwórz klasę `Pociag`. Klasa niech ma dwa atrybuty: predkość (początkowa wartość to 10) i ilosc_paliwa (początkowa wartość to 1000).
+​
+Dodaj do klasy `Pociag` metode `opis`. Ta metoda niech zwraca napis o treści "Moja predkość to (ileś tam). Mam jeszcze (ileś tam) litrów paliwa." Dodatkowo zaimplementuj metodę `__str__`.
+​
+Dodaj metode `przyspiesz`. Ta metoda niech przyjmuje jeden argument mówiący, o ile ma zwiekszyć się prędkość. Ta metoda niech zwiększa predkość pociągu o tyle, ile jest powiedziane w argumencie. I niech zmniejsza ilość paliwa o: `(nowa predkosc - stara_predkosc) * (stara predkosc / 100)`.
+​
+Niech nie da się jednorazowo zwiększyć prędkości o więcej niż 75% (jeśli ktoś spróbuje tak zwiększyć prędkość, prędkość niech pozostaje po prostu bez zmian). Niech nie da sie zwiększyć prędkości, jeśli pociąg nie ma juz paliwa (jeśli ktoś spróbuje zwiększyć prędkość, kiedy nie ma paliwa, prędkość niech pozostaje po prostu bez zmian).
+​
+Przetestuj swoje rozwiązanie i napisz testy, w których:
+- zwiększysz prędkość pociągu o 5 km/h i wypisze jego opis
+- zwiększysz prędkość pociągu o 20 km/h i wypisze jego opis
+- zwiększysz prędkość pociągu o 8 km/h i wypisze jego opis
+- zwiększysz prędkość pociągu o 10 km/h i wypisze jego opis
+​
+### Zadanie 4.4 | Zbiornik
+​
+Stwórz klasę `Zbiornik`. Niech ta klasa ma tylko jeden atrybut: `ilosc_wody` (z początkową wartością 0).
+​
+Niech ta klasa ma metody `dolej` i `odlej`. Obie metody niech przyjmują argument `ile` i niech odpowiednio dodają lub odejmują tę liczbę do atrybutu `ilosc_wody`. Niech nie da się odlać więcej wody, niż jest w zbiorniku.
+​
+Niech obiekt klasy `Zbiornik` po skonwertowaniu na napis dawał napis `zbiornik z (ileś tam) litrami wody`.
+​
+Przerób klasę `Zbiornik` tak, żeby miała też drugi atrybut - `temperatura`. Metoda dolej oprócz argumentu `ile` powinna też przyjmować argument `temperatura` oznaczający temperaturę dolewanej wody. Dolanie wody do zbiornika powinno powodować zmianę temperatury wody w zbiorniku (zgodnie ze zwykłymi prawami fizyki).
+​
+### Zadanie 4.5 | Żółw
+​
+Napisz klasę `Zolw` z metodami `idz` i `obroc_sie`. Żółw ma jakieś położenie (wyrażone dwiema współrzędnymi) i jakieś ustawienie, czyli kurs (wyznaczony pojedyncza liczba).
+​
+Początkowe położenie podajemy konstruktorowi klasy, początkowy kurs to zawsze 0.
+​
+Metoda `obroc_sie ` powoduje obrót żółwia, czyli zmianę jego kursu.
+​
+Metoda `idz` powoduje przejście żółwia o określoną odległość.
+​
+Z klasy będzie się korzystać tak:
+​
+```python
+z = Zolw(100, 100)
+z.idz(50)
+​
+print(z) # ma sie wypisac: x=100, y=50
+​
+z.obroc_sie(90)
+z.idz(50)
+​
+print(z) # ma sie wypisac: x=150, y=50
+```
+​
+### Zadanie 4.6 | Kółko i krzyżyk
+​
+Stwórz klasę `PlanszaXO` - jej obiekty mają reprezentować stan planszy do gry w kółko i krzyżyk.
+​
+Ma ona mieć metody:
+`dodaj_element(x: int, y: int, rodzaj_elementu)`
+W argumencie `rodzaj_elementu` będzie napis `"x"` lub `"y"`. Jeśli ruch jest nieprawidłowy, metoda powinna zwracać fałsz.
+​
+`stan_gry()`
+Ta metoda ma zwracać liczbę oznaczającą stan gry (gra trwa, gra zakończona sukcesem krzyżyków, gra zakończona sukcesem kółek).
+​
+`czyj_ruch()`
+Ta metoda ma powiedzieć, czyj ruch ma być teraz (kółek czy krzyżyków).
+​
+Wyświetlenie obiektu tej klasy ma wypisać planszę.
+​
+Użyj tej klasy do zrobienia gry w kółko i krzyżyk.
+​
+​
+### Zadanie 4.7 | Ogłoszenia / dziedziczenie
+​
+Do zadania z klasą `Ogloszenie` dodaj kolejne kolejne klasy, które po niej dziedziczą.
+​
+`OgloszenieSamochodowe` – dziedziczy z `Ogloszenie` i dodatkowo określa cechy sprzedawanego samochodu jak model, markę, rok produkcji, przebieg, pojemność, moc i rodzaj paliwa.
+`OgloszenieMieszkaniowe` – też dziedziczy z `Ogloszenie`, a dodatkowo cechy sprzedawanego mieszkania / domu: miejscowość, metraż, liczba pokoi.
