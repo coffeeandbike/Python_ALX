@@ -26,28 +26,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05_OOP/zad_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_OOP/zad_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_OOP/zad_3_ver2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_OOP/zad_3_ver3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_OOP/zad_3_ver4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_OOP/zad_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_OOP/zad_4_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_OOP/intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/zad_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_OOP/zad_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fukcje/funkcja_do_liczenia_sredniej_z_wykorzystaniem_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_fukcje/funkcja_do_liczenia_sredniej_z_wykorzystaniem_args.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fukcje/intro_do_funkcji.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_fukcje/intro_do_funkcji.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fukcje/rekurencja.txt" beforeDir="false" afterPath="$PROJECT_DIR$/04_fukcje/rekurencja.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fukcje/zad_1_kalkulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_fukcje/zad_1_kalkulator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fukcje/zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_fukcje/zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fukcje/zad_3_zwracanie_zbioru_znakow_ver_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_fukcje/zad_3_zwracanie_zbioru_znakow_ver_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fukcje/zad_4_liczenie znakow_w_zadanym_napisie_pomiedzy_zadanymi_znakami.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_fukcje/zad_4_liczenie znakow_w_zadanym_napisie_pomiedzy_zadanymi_znakami.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fukcje/zad_6_funkcja_formatujaca_podane_napisy.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_fukcje/zad_6_funkcja_formatujaca_podane_napisy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fukcje/zad_7_funkcja_do_liczenia_silni.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_fukcje/zad_7_funkcja_do_liczenia_silni.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fukcje/zad_7_przyklad_z_wyjatkiem.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_fukcje/zad_7_przyklad_z_wyjatkiem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fukcje/zad_8_funkcja_ciag_fibonacciego.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_fukcje/zad_8_funkcja_ciag_fibonacciego.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fukcje/zad_9_funkcja_splaszczajaca_liste.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_fukcje/zad_9_funkcja_splaszczajaca_liste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_OOP/zad_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_OOP/zad_4_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_1_1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_1_1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_1_1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_1_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_1_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_1_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_1_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_1_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_1_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_1_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_2_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_2_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zad_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_2_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_po_I_weekendzie/zadania.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zadania.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadania_po_II_weekendzie/zad_3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_3_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadania_po_II_weekendzie/zad_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_3_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadania_po_II_weekendzie/zad_3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_3_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadania_po_II_weekendzie/zadania.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,10 +84,11 @@
       <recent name="$PROJECT_DIR$/05_OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Zadania_domowe" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in zad_4.py">
+  <component name="RunManager" selected="Python tests.pytest in zad_4_1.py">
     <configuration name="pytest for zad_3_ver2.test_zarejestruj_zwykle_godziny" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,8 +178,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in zad_4.py" />
         <item itemvalue="Python tests.pytest in zad_4_1.py" />
+        <item itemvalue="Python tests.pytest in zad_4.py" />
         <item itemvalue="Python tests.pytest in zad_3_ver4.py" />
         <item itemvalue="Python tests.pytest in zad_3_ver3.py" />
         <item itemvalue="Python tests.pytest for zad_3_ver2.test_zarejestruj_zwykle_godziny" />
@@ -294,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589018489304</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="zmiana struktury projektu">
+      <created>1589034957159</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1589034957159</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,40 +350,40 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="115" y="133" width="1200" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1587828270917" />
-    <state x="322" y="51" key="CommitChangelistDialog2" timestamp="1589018489065">
+    <state x="322" y="51" key="CommitChangelistDialog2" timestamp="1589034956895">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="322" y="51" key="CommitChangelistDialog2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589018489065" />
+    <state x="322" y="51" key="CommitChangelistDialog2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589034956895" />
     <state x="338" y="51" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1588613878312" />
     <state x="151" y="112" key="DiffContextDialog" timestamp="1585657915273">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="151" y="112" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1585657915273" />
-    <state width="1379" height="265" key="GridCell.Tab.0.bottom" timestamp="1589034757548">
+    <state width="1379" height="265" key="GridCell.Tab.0.bottom" timestamp="1589092649265">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="265" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589034757548" />
+    <state width="1379" height="265" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589092649265" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281745" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100939" />
     <state width="1379" height="265" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588613938948" />
-    <state width="1379" height="265" key="GridCell.Tab.0.center" timestamp="1589034757547">
+    <state width="1379" height="265" key="GridCell.Tab.0.center" timestamp="1589092649264">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="265" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589034757547" />
+    <state width="1379" height="265" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589092649264" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
     <state width="1379" height="265" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588613938946" />
-    <state width="1379" height="265" key="GridCell.Tab.0.left" timestamp="1589034757546">
+    <state width="1379" height="265" key="GridCell.Tab.0.left" timestamp="1589092649264">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="265" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589034757546" />
+    <state width="1379" height="265" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589092649264" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
     <state width="1379" height="265" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588613938944" />
-    <state width="1379" height="265" key="GridCell.Tab.0.right" timestamp="1589034757547">
+    <state width="1379" height="265" key="GridCell.Tab.0.right" timestamp="1589092649265">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="265" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589034757547" />
+    <state width="1379" height="265" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589092649265" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281744" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
     <state width="1379" height="265" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588613938947" />
@@ -400,10 +408,10 @@
     </state>
     <state x="241" y="110" key="SettingsEditor/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589022670764" />
     <state x="241" y="110" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585592416896" />
-    <state x="313" y="198" key="Vcs.Push.Dialog.v2" timestamp="1589018500235">
+    <state x="313" y="198" key="Vcs.Push.Dialog.v2" timestamp="1589034970714">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589018500235" />
+    <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589034970714" />
     <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1588613897323" />
     <state x="473" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586196924956">
       <screen x="0" y="23" width="1440" height="877" />

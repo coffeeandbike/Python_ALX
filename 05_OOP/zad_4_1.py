@@ -64,3 +64,10 @@ def test_kilka_przejazdow():
     assert bmw.drive(20) == 20
     assert bmw.drive(30) == 10
 
+def test_ladowania_kilka_razy():
+    bmw = ElectricCar(100)
+    bmw.charge()
+    bmw.charge()
+    bmw.charge()
+    assert bmw.drive(100) == 100
+
