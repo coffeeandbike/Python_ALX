@@ -1,4 +1,4 @@
-# === 05_OOP ===
+# === OOP ===
 
 # nazewnictwo klas to UpperCamelCase
 

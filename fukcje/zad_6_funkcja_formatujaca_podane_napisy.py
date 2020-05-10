@@ -9,7 +9,7 @@ Przykład użycia:
 'koszt 10 PLN\nkwota 10 brutto'
 '''
 
-# 1 zdefiniowac 04_fukcje ktora ma args i kwargs
+# 1 zdefiniowac fukcje ktora ma args i kwargs
 
 # 2 w definicji funkcji zrobic zmienna(liste) do trzymania przetworzonych napisow
 
