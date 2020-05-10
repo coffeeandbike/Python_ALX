@@ -21,7 +21,7 @@ class PremiumEmployee(Employee):
         self.bonus += bonus_amount
 
     def pay_salary(self) -> float:
-        salary = super().pay_salary()
+        salary = super().pay_salary() #przykrywany metode pay_salary "rodzica" plus robimy to co ponizej
         salary += self.bonus
         self.bonus = 0.0
         return salary
