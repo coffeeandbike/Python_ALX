@@ -78,7 +78,7 @@ n1 = Notice(1, 'Rower', 'Bardzo dobry rower', 2000.0, 'Jan Nowak', '111 222 333'
 n2 = Notice(2, 'Kawa', 'niedobra kawa', 20.0, 'Janina Jakas', '123 456 798', 'Wroclaw')
 
 board1.add_notice_to_board(n1)
-board2.add_notice_to_board(n2)
+board1.add_notice_to_board(n2)
 
 
 board1.display_board()
