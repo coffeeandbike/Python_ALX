@@ -11,29 +11,24 @@ m.in. tytuł, opis, cenę, dane kontaktowe sprzedawcy.
 
 
 class Announcements():
-<<<<<<< HEAD
-    def __init__(self, title: str, description: str, price: float, seller_name: str, seller_phone):
-=======
-    def __init__(self, title: str, description: str, price: float, seller: dict):
->>>>>>> 1c219ed... making class Announcements
+    def __init__(self, title: str, description: str, price: float, seller_name: str, seller_phone: str, address: str):
         """
         making class which will store announcement
         """
         self.title = title
         self.description = description
         self.price = price
-<<<<<<< HEAD
         self.seller_name = seller_name
         self.seller_phone = seller_phone
+        self.address = address
 
     def __str__(self) -> str:
         return f' Tytul ogloszenia: {self.title}\n Opis: {self.description}\n Sprzedajacy: {self.seller_name}\n' \
-               f' Kontakt do Sprzedajacego: {self.seller_phone}\n Cena: {self.price}'
+               f' Adres: {self.address}\n Kontakt do Sprzedajacego: {self.seller_phone}\n Cena: {self.price}'
 
-ogloszenie = Announcements("Rower", 'Bardzo dobry rower', 2000.0, 'Jan Nowak', '111 222 333')
+
+
+ogloszenie = Announcements("Rower", 'Bardzo dobry rower', 2000.0, 'Jan Nowak', '111 222 333', 'Pcim Sredni')
 
 
 print(ogloszenie)
-=======
-        self.seller = seller
->>>>>>> 1c219ed... making class Announcements

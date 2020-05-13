@@ -12,7 +12,8 @@ Napisz programy, w których tworzysz listę ogłoszeń samochodowych, a następn
 ​
 Na przykład ogłoszenia o cenach z określonego przedziału.
 ​
-Użyj funkcji `lambda`, określających, które ogłoszenia powinny zostać wyszukane. Użyj poznanych kolekcji do trzymania ogłoszeń. Możesz zastosować metodę `filter` do wyszukiwania odpowiednich ogłoszeń.
+Użyj funkcji `lambda`, określających, które ogłoszenia powinny zostać wyszukane.
+Użyj poznanych kolekcji do trzymania ogłoszeń. Możesz zastosować metodę `filter` do wyszukiwania odpowiednich ogłoszeń.
 ​
 ### Zadanie 4.3 | Pociąg
 ​
