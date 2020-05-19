@@ -26,8 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/kolekcje_part_2/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania_domowe/zad_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_4_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania_domowe/zad_4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania_domowe/zad_4_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,28 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.zad_4_1">
+  <component name="RunManager" selected="Python tests.pytest in zad_4_3.py">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_ALX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kolekcje_part_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kolekcje_part_2/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="zad_4_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zad_4_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadania_domowe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/zad_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadania_domowe/zad_4_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,68 +137,56 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for zad_7.test_czy_dziedziczenie_dziala" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="zad_4_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadania_domowe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;zad_7.test_czy_dziedziczenie_dziala&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadania_domowe/zad_4_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in zad_6.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in zad_4_3.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadania_domowe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/OOP/zad_6.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in zad_6_ver2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Python_ALX" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/OOP/zad_6_ver2.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Zadania_domowe/zad_4_3.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest in zad_6.py" />
-      <item itemvalue="Python tests.pytest in zad_6_ver2.py" />
-      <item itemvalue="Python.zad_7" />
-      <item itemvalue="Python tests.pytest for zad_7.test_czy_dziedziczenie_dziala" />
       <item itemvalue="Python.zad_4_1" />
+      <item itemvalue="Python.zad_4_2" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.zad_4_3" />
+      <item itemvalue="Python tests.pytest in zad_4_3.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in zad_4_3.py" />
+        <item itemvalue="Python.zad_4_3" />
+        <item itemvalue="Python.zad_4_2" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.zad_4_1" />
-        <item itemvalue="Python.zad_7" />
-        <item itemvalue="Python tests.pytest for zad_7.test_czy_dziedziczenie_dziala" />
-        <item itemvalue="Python tests.pytest in zad_6_ver2.py" />
-        <item itemvalue="Python tests.pytest in zad_6.py" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589130896686</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="zad_4_3 done">
+      <created>1589829948306</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1589829948306</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,19 +354,20 @@
                   </entry>
                 </map>
               </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="folder" />
     <MESSAGE value="task done" />
     <MESSAGE value="zmiana struktury projektu" />
     <MESSAGE value="making class Announcements" />
-    <option name="LAST_COMMIT_MESSAGE" value="making class Announcements" />
+    <MESSAGE value="zad_4_3 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="zad_4_3 done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="313" y="124" key="#Inspections" timestamp="1587829269534">
@@ -357,48 +375,62 @@
     </state>
     <state x="313" y="124" key="#Inspections/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1585765986826" />
     <state x="313" y="124" key="#Inspections/0.23.1440.877@0.23.1440.877" timestamp="1587829269534" />
-    <state x="179" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589029577115">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="191" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589829884340">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="191" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1589829884340" />
     <state x="179" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589029577115" />
     <state x="179" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1588098192496" />
     <state x="115" y="133" width="1200" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587828270917">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="115" y="133" width="1200" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1587828270917" />
-    <state x="322" y="51" key="CommitChangelistDialog2" timestamp="1589130896546">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="507" y="47" key="#pytest_in_zad_4_3.py" timestamp="1589827904076">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="507" y="47" key="#pytest_in_zad_4_3.py/0.0.1536.834@0.0.1536.834" timestamp="1589827904076" />
+    <state x="343" y="24" key="CommitChangelistDialog2" timestamp="1589829942004">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="343" y="24" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589829942004" />
     <state x="322" y="51" key="CommitChangelistDialog2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589130896546" />
     <state x="338" y="51" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1588613878312" />
     <state x="151" y="112" key="DiffContextDialog" timestamp="1585657915273">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="151" y="112" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1585657915273" />
-    <state width="1379" height="213" key="GridCell.Tab.0.bottom" timestamp="1589132138983">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1515" height="282" key="GridCell.Tab.0.bottom" timestamp="1589830071109">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1364" height="179" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589552114139" />
+    <state width="1515" height="282" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589830071109" />
     <state width="1379" height="213" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589132138983" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281745" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100939" />
     <state width="1379" height="265" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588613938948" />
-    <state width="1379" height="213" key="GridCell.Tab.0.center" timestamp="1589132138982">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1515" height="282" key="GridCell.Tab.0.center" timestamp="1589830071109">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1364" height="179" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589552114139" />
+    <state width="1515" height="282" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589830071109" />
     <state width="1379" height="213" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589132138982" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
     <state width="1379" height="265" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588613938946" />
-    <state width="1379" height="213" key="GridCell.Tab.0.left" timestamp="1589132138981">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1515" height="282" key="GridCell.Tab.0.left" timestamp="1589830071109">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1364" height="179" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589552114139" />
+    <state width="1515" height="282" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589830071109" />
     <state width="1379" height="213" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589132138981" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
     <state width="1379" height="265" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588613938944" />
-    <state width="1379" height="213" key="GridCell.Tab.0.right" timestamp="1589132138982">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1515" height="282" key="GridCell.Tab.0.right" timestamp="1589830071109">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1364" height="179" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589552114139" />
+    <state width="1515" height="282" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589830071109" />
     <state width="1379" height="213" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589132138982" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281744" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
@@ -424,9 +456,10 @@
     </state>
     <state x="241" y="110" key="SettingsEditor/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589022670764" />
     <state x="241" y="110" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585592416896" />
-    <state x="313" y="198" key="Vcs.Push.Dialog.v2" timestamp="1589118759340">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="334" y="166" key="Vcs.Push.Dialog.v2" timestamp="1589829952082">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="334" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589829952082" />
     <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589118759340" />
     <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1588613897323" />
     <state x="473" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586196924956">

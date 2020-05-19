@@ -79,6 +79,8 @@ class Train:
 
 
 
+# TESTS
+
 def test_accelerate_once():
     ciuchcia1 = Train(10, 1000)
     assert ciuchcia1.acceerate(5) == [15, 999.5]
@@ -99,3 +101,8 @@ def test_accelerate_few_times():
     assert ciuchcia1.train_status() == f"Current train speed is 23\nCurrent fuel state is 998.3"
     ciuchcia1.acceerate(10)
     assert ciuchcia1.train_status() == f"Current train speed is 33\nCurrent fuel state is 996.0"
+
+def test_accelerate_without_fuel():
+    ciuchcia1 = Train(10, 0)
+    assert ciuchcia1.acceerate(5) == [10, 0]
+    assert ciuchcia1.train_status() == f"Current train speed is 10\nCurrent fuel state is 0.0"

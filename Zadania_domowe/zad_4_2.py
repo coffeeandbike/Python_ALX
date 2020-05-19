@@ -53,7 +53,7 @@ class NoticeBoard:
         This method add notice to the notice board
         :return: dictionary with notice
         """
-        if not isinstance(notice, Notice):  # jest produkt nie jest klasy Produkt
+        if not isinstance(notice, Notice):
             raise TypeError("Notice has to be an instance of class Notice")
         else:
             self.items.append(notice)
@@ -66,9 +66,33 @@ class NoticeBoard:
     def __str__(self):
         return self.display_board()
 
+'''
+class FilteredBoard:
+    """
+    class for filtered notices
+    """
+    def __init__(self, criteria_filter: str, condition_filter):
+        self.criteria_filter = criteria_filter
+        self.condition_filter = condition_filter
+        self.filtered_board = []
 
-    def look_for_notice(self) -> dict:
-        pass
+    def __str__(self):
+        return self.filtered_board()
+
+    def display_filtered_board(self) -> str:
+        print("Search result: ")
+        for self.filtered_notice in self.filtered_board:
+            print(f'{self.filtered_notice}\n')
+
+
+    def filter_board(self, board: list) -> list:
+        if not isinstance(board, NoticeBoard):
+            raise TypeError("Board has to be an instance of class NoticeBoard")
+
+        for self.element in self.board:
+            self.filtered_board = list(filter(lambda element: element[self.criteria_filter] in self.condition_filter, self.board))
+'''
+
 
 
 board1 = NoticeBoard()
@@ -77,15 +101,19 @@ n1 = Notice(1, 'Rower', 'Bardzo dobry rower', 2000.0, 'Jan Nowak', '111 222 333'
 
 n2 = Notice(2, 'Kawa', 'niedobra kawa', 20.0, 'Janina Jakas', '123 456 798', 'Wroclaw')
 
+n3 = Notice(1, 'Sanki', 'Szybkie sanki', 120.0, 'Zdzislaw Bardzowolny', '987 654 321', 'Sniegobraki')
+
 board1.add_notice_to_board(n1)
 board1.add_notice_to_board(n2)
+board1.add_notice_to_board(n3)
 
 
 board1.display_board()
+print()
+print(board1.items)
 
+'''
+fboard1 = FilteredBoard()
 
-
-
-
-
-
+fboard1.filter_board()
+'''
