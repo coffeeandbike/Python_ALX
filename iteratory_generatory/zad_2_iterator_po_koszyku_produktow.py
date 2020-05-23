@@ -143,3 +143,6 @@ koszyk.add_product(pomidory, 3)
 
 for produkt in koszyk:
     print(produkt.name)
+
+nazwy_produktow = [produkt.name for produkt in koszyk]
+print(nazwy_produktow)

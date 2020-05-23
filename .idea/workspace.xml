@@ -26,11 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/zad_8_promocje.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iteratory_generatory/intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iteratory_generatory/zad_1_licznik.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iteratory_generatory/zad_2_iterator_po_koszyku_produktow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iteratory_generatory/zad_3_lista_rozgrywek.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iteratory_generatory/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/iteratory_generatory/intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iteratory_generatory/zad_2_iterator_po_koszyku_produktow.py" beforeDir="false" afterPath="$PROJECT_DIR$/iteratory_generatory/zad_2_iterator_po_koszyku_produktow.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,28 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.zad_2_iterator_po_koszyku_produktow">
+  <component name="RunManager" selected="Python.zad_3_lista_rozgrywek">
+    <configuration name="intro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_ALX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iteratory_generatory" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iteratory_generatory/intro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="zad_1_licznik" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zad_3_lista_rozgrywek" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iteratory_generatory" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/zad_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iteratory_generatory/zad_3_lista_rozgrywek.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,36 +171,20 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in zad_6_ver2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Python_ALX" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/OOP/zad_6_ver2.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.zad_7" />
-      <item itemvalue="Python tests.pytest in zad_6_ver2.py" />
       <item itemvalue="Python tests.pytest for zad_7.test_czy_dziedziczenie_dziala" />
       <item itemvalue="Python.zad_1_licznik" />
       <item itemvalue="Python.zad_2_iterator_po_koszyku_produktow" />
+      <item itemvalue="Python.intro" />
+      <item itemvalue="Python.zad_3_lista_rozgrywek" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.zad_3_lista_rozgrywek" />
+        <item itemvalue="Python.intro" />
         <item itemvalue="Python.zad_2_iterator_po_koszyku_produktow" />
         <item itemvalue="Python.zad_1_licznik" />
         <item itemvalue="Python tests.pytest for zad_7.test_czy_dziedziczenie_dziala" />
-        <item itemvalue="Python.zad_7" />
-        <item itemvalue="Python tests.pytest in zad_6_ver2.py" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589093804503</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="iteratory 1">
+      <created>1590228861161</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590228861161</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -338,7 +349,8 @@
     <MESSAGE value="folder" />
     <MESSAGE value="task done" />
     <MESSAGE value="zmiana struktury projektu" />
-    <option name="LAST_COMMIT_MESSAGE" value="zmiana struktury projektu" />
+    <MESSAGE value="iteratory 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="iteratory 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="313" y="124" key="#Inspections" timestamp="1587829269534">
@@ -355,40 +367,40 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="115" y="133" width="1200" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1587828270917" />
-    <state x="322" y="51" key="CommitChangelistDialog2" timestamp="1589093804338">
+    <state x="322" y="51" key="CommitChangelistDialog2" timestamp="1590228860921">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="322" y="51" key="CommitChangelistDialog2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589093804338" />
+    <state x="322" y="51" key="CommitChangelistDialog2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590228860921" />
     <state x="338" y="51" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1588613878312" />
     <state x="151" y="112" key="DiffContextDialog" timestamp="1585657915273">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="151" y="112" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1585657915273" />
-    <state width="1379" height="213" key="GridCell.Tab.0.bottom" timestamp="1590227093720">
+    <state width="1379" height="213" key="GridCell.Tab.0.bottom" timestamp="1590231507307">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="213" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590227093720" />
+    <state width="1379" height="213" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590231507307" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281745" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100939" />
     <state width="1379" height="265" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588613938948" />
-    <state width="1379" height="213" key="GridCell.Tab.0.center" timestamp="1590227093719">
+    <state width="1379" height="213" key="GridCell.Tab.0.center" timestamp="1590231507306">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="213" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590227093719" />
+    <state width="1379" height="213" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590231507306" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
     <state width="1379" height="265" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588613938946" />
-    <state width="1379" height="213" key="GridCell.Tab.0.left" timestamp="1590227093718">
+    <state width="1379" height="213" key="GridCell.Tab.0.left" timestamp="1590231507305">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="213" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590227093718" />
+    <state width="1379" height="213" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590231507305" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
     <state width="1379" height="265" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588613938944" />
-    <state width="1379" height="213" key="GridCell.Tab.0.right" timestamp="1590227093719">
+    <state width="1379" height="213" key="GridCell.Tab.0.right" timestamp="1590231507307">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="213" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590227093719" />
+    <state width="1379" height="213" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590231507307" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281744" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
     <state width="1379" height="265" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588613938947" />
@@ -413,10 +425,10 @@
     </state>
     <state x="241" y="110" key="SettingsEditor/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589022670764" />
     <state x="241" y="110" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585592416896" />
-    <state x="313" y="198" key="Vcs.Push.Dialog.v2" timestamp="1589093812713">
+    <state x="313" y="198" key="Vcs.Push.Dialog.v2" timestamp="1590228880967">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589093812713" />
+    <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590228880967" />
     <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1588613897323" />
     <state x="473" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590217181060">
       <screen x="0" y="23" width="1440" height="877" />
