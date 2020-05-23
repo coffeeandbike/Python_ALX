@@ -26,68 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69bfc1b2-1729-4a11-9d09-5af42fbe9246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/zad_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/zad_5_ver2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/zad_5_ver3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/zad_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/zad_6_ver2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/zad_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/zad_8_promocje.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iteratory_generatory/intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iteratory_generatory/zad_1_licznik.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iteratory_generatory/zad_2_iterator_po_koszyku_produktow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/odejmowanie.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/odejmowanie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_basics/zadanie_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/basisc/zadanie_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_kolekcje_part_1/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_1/intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_kolekcje_part_1/zad_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_1/zad_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_kolekcje_part_1/zad_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_1/zad_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_kolekcje_part_1/zad_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_1/zad_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_kolekcje_part_1/zad_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_1/zad_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_kolekcje_part_1/zad_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_1/zad_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_kolekcje_part_1/zad_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_1/zad_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_kolekcje_part_2/liczenie_samoglosek_w_napisie.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_2/liczenie_samoglosek_w_napisie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_kolekcje_part_2/liczenie_wystapien_kazdego_znaku_w_napisie.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_2/liczenie_wystapien_kazdego_znaku_w_napisie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_kolekcje_part_2/liczenie_znakow_w_napisie_miedzy_nawiasami.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_2/liczenie_znakow_w_napisie_miedzy_nawiasami.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_kolekcje_part_2/liczenie_znakow_w_napisie_miedzy_nawiasami_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_2/liczenie_znakow_w_napisie_miedzy_nawiasami_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_kolekcje_part_2/liczenie_znakow_w_napisie_miedzy_nawiasami_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_2/liczenie_znakow_w_napisie_miedzy_nawiasami_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_kolekcje_part_2/slownik_towary_w_sklepie.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_2/slownik_towary_w_sklepie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_kolekcje_part_2/slowniki.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_2/slowniki.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_kolekcje_part_2/wyrazenia_listowe.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_2/wyrazenia_listowe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_kolekcje_part_2/zad_12_wyrazenia_listowe_slownikowe.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_2/zad_12_wyrazenia_listowe_slownikowe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_kolekcje_part_2/zbiory.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_2/zbiory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_kolekcje_part_2/zbiory_zlicznie_unikalnych_liczb.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolekcje_part_2/zbiory_zlicznie_unikalnych_liczb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_fukcje/funkcja_do_liczenia_sredniej_z_wykorzystaniem_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/fukcje/funkcja_do_liczenia_sredniej_z_wykorzystaniem_args.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_fukcje/intro_do_funkcji.py" beforeDir="false" afterPath="$PROJECT_DIR$/fukcje/intro_do_funkcji.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_fukcje/rekurencja.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fukcje/rekurencja.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_fukcje/zad_1_kalkulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/fukcje/zad_1_kalkulator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_fukcje/zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/fukcje/zad_2_sprawdzanie_czy_liczba_jest_pierwsza_and_Unit_Tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_fukcje/zad_3_zwracanie_zbioru_znakow_ver_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/fukcje/zad_3_zwracanie_zbioru_znakow_ver_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_fukcje/zad_4_liczenie znakow_w_zadanym_napisie_pomiedzy_zadanymi_znakami.py" beforeDir="false" afterPath="$PROJECT_DIR$/fukcje/zad_4_liczenie znakow_w_zadanym_napisie_pomiedzy_zadanymi_znakami.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_fukcje/zad_6_funkcja_formatujaca_podane_napisy.py" beforeDir="false" afterPath="$PROJECT_DIR$/fukcje/zad_6_funkcja_formatujaca_podane_napisy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_fukcje/zad_7_funkcja_do_liczenia_silni.py" beforeDir="false" afterPath="$PROJECT_DIR$/fukcje/zad_7_funkcja_do_liczenia_silni.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_fukcje/zad_7_przyklad_z_wyjatkiem.py" beforeDir="false" afterPath="$PROJECT_DIR$/fukcje/zad_7_przyklad_z_wyjatkiem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_fukcje/zad_8_funkcja_ciag_fibonacciego.py" beforeDir="false" afterPath="$PROJECT_DIR$/fukcje/zad_8_funkcja_ciag_fibonacciego.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_fukcje/zad_9_funkcja_splaszczajaca_liste.py" beforeDir="false" afterPath="$PROJECT_DIR$/fukcje/zad_9_funkcja_splaszczajaca_liste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_OOP/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_OOP/zad_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/zad_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_OOP/zad_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/zad_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_OOP/zad_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/zad_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_OOP/zad_3_ver2.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/zad_3_ver2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_OOP/zad_3_ver3.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/zad_3_ver3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_OOP/zad_3_ver4.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/zad_3_ver4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_OOP/zad_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/zad_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_OOP/zad_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/zad_4_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +71,49 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for zad_7.test_czy_dziedziczenie_dziala">
+  <component name="RunManager" selected="Python.zad_2_iterator_po_koszyku_produktow">
+    <configuration name="zad_1_licznik" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_ALX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iteratory_generatory" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iteratory_generatory/zad_1_licznik.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad_2_iterator_po_koszyku_produktow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_ALX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iteratory_generatory" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iteratory_generatory/zad_2_iterator_po_koszyku_produktow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="zad_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,38 +151,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in zad_5_ver3.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Python_ALX" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/OOP/zad_5_ver3.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in zad_6.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Python_ALX" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/OOP/zad_6.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest in zad_6_ver2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_ALX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,19 +168,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest in zad_5_ver3.py" />
-      <item itemvalue="Python tests.pytest in zad_6.py" />
-      <item itemvalue="Python tests.pytest in zad_6_ver2.py" />
       <item itemvalue="Python.zad_7" />
+      <item itemvalue="Python tests.pytest in zad_6_ver2.py" />
       <item itemvalue="Python tests.pytest for zad_7.test_czy_dziedziczenie_dziala" />
+      <item itemvalue="Python.zad_1_licznik" />
+      <item itemvalue="Python.zad_2_iterator_po_koszyku_produktow" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.zad_2_iterator_po_koszyku_produktow" />
+        <item itemvalue="Python.zad_1_licznik" />
         <item itemvalue="Python tests.pytest for zad_7.test_czy_dziedziczenie_dziala" />
         <item itemvalue="Python.zad_7" />
         <item itemvalue="Python tests.pytest in zad_6_ver2.py" />
-        <item itemvalue="Python tests.pytest in zad_6.py" />
-        <item itemvalue="Python tests.pytest in zad_5_ver3.py" />
       </list>
     </recent_temporary>
   </component>
@@ -411,31 +364,31 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="151" y="112" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1585657915273" />
-    <state width="1379" height="213" key="GridCell.Tab.0.bottom" timestamp="1589118368314">
+    <state width="1379" height="213" key="GridCell.Tab.0.bottom" timestamp="1590227093720">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="213" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589118368314" />
+    <state width="1379" height="213" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590227093720" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281745" />
     <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100939" />
     <state width="1379" height="265" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588613938948" />
-    <state width="1379" height="213" key="GridCell.Tab.0.center" timestamp="1589118368313">
+    <state width="1379" height="213" key="GridCell.Tab.0.center" timestamp="1590227093719">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="213" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589118368313" />
+    <state width="1379" height="213" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590227093719" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
     <state width="1379" height="265" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588613938946" />
-    <state width="1379" height="213" key="GridCell.Tab.0.left" timestamp="1589118368312">
+    <state width="1379" height="213" key="GridCell.Tab.0.left" timestamp="1590227093718">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="213" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589118368312" />
+    <state width="1379" height="213" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590227093718" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281743" />
     <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
     <state width="1379" height="265" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588613938944" />
-    <state width="1379" height="213" key="GridCell.Tab.0.right" timestamp="1589118368313">
+    <state width="1379" height="213" key="GridCell.Tab.0.right" timestamp="1590227093719">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1379" height="213" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589118368313" />
+    <state width="1379" height="213" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590227093719" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585760281744" />
     <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.800.577@0.23.1440.877" timestamp="1585979100938" />
     <state width="1379" height="265" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588613938947" />
@@ -465,10 +418,10 @@
     </state>
     <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1589093812713" />
     <state x="313" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1588613897323" />
-    <state x="473" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586196924956">
+    <state x="473" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590217181060">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="473" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1586196924956" />
+    <state x="473" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.-73.1920.1057@0.23.1440.877" timestamp="1590217181060" />
     <state x="2070" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.-73.1920.1057@1440.-73.1920.1057" timestamp="1585758920386" />
     <state x="378" y="220" width="670" height="676" key="search.everywhere.popup" timestamp="1589017835902">
       <screen x="0" y="23" width="1440" height="877" />
@@ -483,6 +436,11 @@
           <url>file://$PROJECT_DIR$/OOP/zad_2.py</url>
           <line>32</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iteratory_generatory/zad_2_iterator_po_koszyku_produktow.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
