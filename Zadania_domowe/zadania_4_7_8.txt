@@ -1,0 +1,235 @@
+## Zadania dodatkowe OOP
+​
+### Zadanie 4.8
+​
+Zaimplementuj metodę statyczną tworzącą koszyk na podstawie listy podanych produktów.
+Każdy z nich powinien zostać dodany do koszyka tylko raz.
+​
+Przykład użycia:
+backset = Basket.with_products([prod_1, prod_2])
+​
+### Zadanie 4.9
+​
+Zaimplementuj mechanizm automatycznego generowania kolejnych ID dla produktów.
+Informację o kolejnym ID przechowuj jako pole klasowe (class attribute).
+​
+Przykład użycia:
+> product_1 = Product('Woda', 1.99)
+> product_1.id
+1
+> product_2 = Product('Chleb', 2.50)
+> product_2.id
+2
+​
+### Zadanie 4.10
+​
+Zaimplementuj klasy odpowiedzialne za tworzenie dokumentów w składni MarkDown.
+Stwórz klasę bazową Element zawierającą podstawową implementację metody render()
+oraz kilka jej klas pochodnych. Stwórz klasę Document umożliwiającą wyrenderowanie dodanych elementów.
+Przykład użycia:
+> document = Document()
+> document.add_element(HeaderElement('Header'))
+> document.add_element(LinkElement('ABC', 'abc.com'))
+> document.add_element(Element('Simple'))
+> document.render()
+Header
+======
+(ABC)[http://abc.com]
+Simple
+​
+## 5. Iteratory i generatory
+​
+### Zadanie 5.1
+​
+Zaimplementuj iterator zwracający jedynie samogłoski z zadanego ciągu znaków:
+​
+Przykładowe użycie:
+for char in Vowels('ala ma kota a kot ma ale'):
+    ...
+​
+### Zadanie 5.2
+​
+Zaimplementuj generator zwracający jedynie samogłoski z zadanego ciągu znaków:
+​
+Przykładowe użycie:
+for char in vowels('ala ma kota a kot ma ale'):
+    ...
+​
+## 6. Przetwarzanie plików
+​
+### Zadanie 6.1 | Dane skoczków narciarskich (3 godz.)
+​
+Plik CSV z danymi: http://pgradzinski.students.alx.pl/kpython/zawodnicy.csv
+​
+Korzystając z pliku CSV z danymi skoczków narciarskich napisz programy, które wczytują ten plik i:
+​
+1. wypisuje najwyższego, najniższego, najcięższego i najlżejszego skoczka;
+gdyby kilku miało taką samą wagę lub wzrost, to wystarczy wypisać jednego z nich.
+2. liczy ile łącznie ważą reprezentanci Polski (np. żeby sprawdzić czy zmieszczą się w windzie na skocznię ;)). Pozwól użytkownikowi podać kraj (niekoniecznie musi być Polska).
+3. (trudniejsze) dla wszystkich krajów oblicza ilu jest zawodników z tego kraju; tzn. ma się wypisać, być może w innej kolejności:
+​
+```
+AUT – 2
+FIN – 3
+GER – 5
+NOR – 3
+POL – 3
+USA – 1
+```
+​
+4. jak wyżej, ale liczy jeszcze dla każdego kraju średni wzrost zawodników.
+​
+### Zadanie 6.2 | Policz wybrane słowo (1 godz.)
+​
+Plik z utworem "Pan Tadeusz" do pobrania: http://pgradzinski.students.alx.pl/kpython/pan-tadeusz.txt
+​
+Niech program dla podanej nazwy pliku tekstowego i dla podanego słowa policzy ile razy to słowo występuje w pliku (np. Tadeusz w pliku `pan-tadeusz.txt`).
+​
+### Zadanie 6.3 | Policz wszystkie słowa (trudne) (2 godz.)
+​
+Podstawowa funkcjonalność:
+Napisz program, który czyta plik tekstowy i wylicza oraz wypisuje bez powtórzeń wszystkie słowa występujące w pliku wraz z informacją ile razy dane słowo występuje. Na przykład w ten sposób:
+​
+```
+Zosia -> 34
+Asesor -> 35
+dwóch -> 35
+Tadeusz -> 107
+```
+​
+Ewentualne uproszczenie (w razie problemów z wypisywaniem): wypisz tylko jedno najczęściej występujące słowo.
+​
+Dalsze rozszerzenia (opcjonalnie):
+- posortuj wypisywane słowa
+- oprócz liczby poszczególnych słów policz i wypisz także liczbę wszystkich słów, łączną liczbę wszystkich znaków.
+​
+## 7. Biblioteka Standardowa
+​
+### Zadanie 7.1 | Pobieranie informacji z API metaweather
+​
+Napisz program wyświetlający pogodę dla wskazanej przez użytkownika lokalizacji.
+Skorzystaj z modułu urllib.request, json oraz API MetaWeather.
+​
+### Zadanie 7.2 | Moduły
+​
+Utwórz następującą strukturę pakietów i modułów:
+- główny pakiet mathematica
+- pakiet wewnętrzny geometry
+- moduł figures w pakiecie geometry z funkcjami
+    - square_area oraz triangle_area
+- pakiet wewnętrzny algebra
+- moduł formulas w pakiecie algebra z funkcjami
+    - add, substract, multiply, divide
+- pakiet wewnętrzny tests
+- moduł test_geometry testujący funkcje geometryczne
+- moduł test_algebra testujący funkcje algebraiczne
+​
+Struktura katalogów i plików:
+mathematica
+    algebra
+        __init__.py
+        formulas.py
+    geometry
+        __init__.py
+        figures.py
+    __init__.py
+test_geometry
+test_algebra
+​
+### Zadanie 7.3 | Czas przebywania w systemie - wersja podstawowa
+​
+Napisz program wczytujący plik z logami aktywności użytkowników w systemie.
+Na podstawie wczytanych danych wyświetl informację o sumarycznym czasie
+przebywania każdego użytkownika w systemie.
+​
+$ python read_logs.py logs_simple.txt
+Czas przebywania w systemie:
+- user-1: 92 s
+- user-2: 51 s
+- user-3: 20 s
+​
+Przykładowy plik z logami możesz pobrać z http://pgradzinski.students.alx.pl/~pgradzinski/kpython/logs_simple.txt
+​
+### Zadanie 7.4 | Czas przebywania w systemie - wersja rozszerzona
+​
+Rozbuduj poprzednie zadanie. Plik z logami posiada informację o czasie logowania do systemu i o czasie wylogowania z systemu. Oblicz czas spędzony w systemie na podstawie informacji o tym kiedy użytkownik się logował do systemu i kiedy się z niego wylogowywał.
+​
+Plik z logami: http://pgradzinski.students.alx.pl/~pgradzinski/kpython/logs.txt
+​
+### Zadanie 7.5 | Pracownicy
+​
+Napisz program obsługujący pracowników.
+Przechowuj imię, nazwisko, email, rok urodzenia, pensję.
+​
+Skorzystaj z modułu json.
+​
+Przykład użycia:
+$ python employees.py
+Co chcesz zrobić? [d - dodaj, w - wypisz] d Imie: Jan
+Nazwisko: Nowak
+Rok urodzenia: 1980
+Pensja: 5000.0
+​
+$ python employees.py
+Co chcesz zrobić? [d - dodaj, w - wypisz] w Pracownicy:
+- [1] Jan Nowak - rok: 1980, pensja: 5000.00 PLN
+​
+​
+## 8. Bazy danych
+​
+### Zadanie 8.1 | Baza danych dla ogłoszeń
+​
+Załóż bazę danych, która będzie zawierać dane ogłoszeń, analogiczne do tych w utworzonych wcześniej klasach.
+​
+Wersja prostsza: stwórz jedną tabelę dla ogłoszeń samochodowych (zarówno dane ogólne, jak i dane samochodu). Zadbaj o odpowiednie typy kolumn (szczególnie ważne dla „prawdziwych” baz danych).
+​
+Wersja bardziej złożona: trzymaj dane sprzedawców w oddzielnej tabeli, a w ogłoszeniach odwołuj się do sprzedawców za pomocą `id` ("klucz obcy") tak, aby ten sam sprzedawca mógł mieć przypisanych wiele ogłoszeń.
+​
+Wersja jeszcze bardziej złożona (tylko dla tych, którzy już znają bazy danych): ogólne dane ogłoszeń trzymaj w jednej tabeli, a rozszerzone dane dotyczące samochodów w oddzielnej. Wówczas można też dodać tabelę zawierającą rozszerzone dane dla ogłoszeń mieszkaniowych.
+​
+Wypełnij tabelę (/tabele) przykładowymi danymi.
+​
+### Zadanie 8.2 | Dostęp do bazy danych
+​
+Napisz program odczytujący dane z Twojej nowo utworzonej bazy.
+​
+Następnie spróbuj napisać program, który wczytuje dane z bazy i zapisuje je w pliku CSV.
+​
+Wykorzystaj napisane już wcześniej klasy/metody do obsługi CSV dla Twoich klas z ogłoszeniami.
+​
+### Zadanie 8.3 - zadania na bazie zawodnicy
+​
+Przygotuj zapytania, który dostarczą odpowiedzi na następujące pytania korzystając z bazy danych `zawodnicy`:
+​
+- Obok imion i nazwisk skoczków wypisz ich daty urodzenia w formacie typowym dla języka polskiego, czyli np. “07.02.2006 r.”
+- Wypisz listę zawodników w formacie imię nazwisko (kraj), np. “Adam Małysz (POL)”.
+- FIS dba, aby skoczkowie narciarscy nie byli zbyt szczupli i wymaga, aby ich BMI wynosiło co najmniej 20. Wypisz listę zawodników wraz z informacją czy mają odpowiednią wagę w stosunku do swojego wzrostu (informacja powinna być osobnym polem o wartości typu boolean).
+- Obok imion i nazwisko skoczków wypisz ich BMI z dokładnością do 2 i 3 miejsc po przecinku.
+- Wypisując imiona i nazwiska zamień wielkość liter w nazwiskach, tak by tylko pierwsza litera była wielka.
+- Wypisz listę wszystkich polskich zawodników.
+- Wypisz listę wszystkich trenerów bez podanej daty urodzenia.
+- Wypisz listę zawodników w formacie imię nazwisko (kraj), np. “Adam Małysz (POL)”. Posortuj tę listę po nazwisku zawodnika, w kolejności alfabetycznej.
+- Wypisz listę trenerów posortowanych według daty urodzenia.
+- Wypisz zawodników posortowanych według BMI
+- Wypisz listę zawodników urodzonych w sezonie od listopada do marca.
+- Znajdź trenerów, którzy nie trenują żadnych zawodników.
+- Znajdź trenerów, którzy trenują jakichś zawodników.
+- Znajdź zawodników, którzy nie mają trenera.
+- Znajdź takich zawodników, którzy są starsi od swoich trenerów. Znajdź takich zawodników, którzy są młodsi od swoich trenerów.
+- Podaj wielkości drużyn narodowych.
+- Policz, ilu jest wszystkich zawodników.
+- Podaj listę ekip uporządkowaną według średniego wzrostu zawodników.
+- Sprawdź, jaki jest największy wzrost w poszczególnych krajach.
+- Sprawdź, jaki jest największy wzrost wśród wszystkich.
+- Policz, ilu zawodników urodziło się w poszczególnych kwartałach.
+- Policz, ilu zawodników urodziło się w poszczególnych latach w poszczególnych kwartałach.
+- Policz, jaka jest średnia wielkość ekipy narodowej.
+- Znajdź zawodników wyższych od Małysza.
+- Znajdź zawodników starszych niż Heinz Kuttin.
+- Wypisz zawodników cięższych niż średnia wśród wszystkich.
+- Wypisz zawodników cięższych niż przeciętny zawodnik z Polski.
+- Wypisz zawodników cięższych niż średnia w danej ekipie.
+​
+### Zadanie 8.3 | Dodatkowe zadania z SQL
+​
+Pod adresem <http://pgradzinski.students.alx.pl/~pgradzinski/kpython/sql-zadania/> znajdziesz dodatkowe zadania z zapytań SQL.
