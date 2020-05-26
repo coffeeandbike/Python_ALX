@@ -35,3 +35,68 @@ class Tank:
 
     def __str__(self):
         return self.get_info()
+
+
+
+
+class Tank2:
+    """
+    class with water temperature calculating
+    """
+    def __init__(self, liters: float, temperature: float):
+        self.liters = liters
+        self.temperature = temperature
+        t3 = 0
+
+    def increare_water(self, how_much: float, t2: float):
+        self.liters = self.liters + how_much
+        t3: float = ((self.temperature * self.liters) + (t2 * how_much)) / (self.liters + how_much)
+        self.temperature = t3
+        water_params = []
+        water_params.append(self.liters)
+        water_params.append(self.temperature)
+        return water_params
+
+
+    def decrease_water(self, how_much: float):
+        self.temperature = self.temperature
+        self.liters = self.liters - how_much
+        if self.liters <= 0:
+            self.liters = 0
+        water_params = []
+        water_params.append(self.liters)
+        water_params.append(self.temperature)
+        return water_params
+
+
+    def water_info(self):
+        if self.liters > 0:
+            return f"W zbiorniku jest {self.liters} litrow wody o temperaturze {self.temperature:.2f}"
+        elif self.liters <= 0:
+            return "Brak wody"
+
+    def __str__(self):
+        return self.water_info()
+
+
+boiler = Tank2(100, 50)
+
+boiler.increare_water(10, 50)
+
+print(boiler)
+
+boiler.decrease_water(40)
+
+print(boiler)
+
+boiler.decrease_water(80)
+
+print(boiler)
+
+boiler.increare_water(100, 70)
+boiler.increare_water(20, 100)
+
+print(boiler)
+
+boiler.increare_water(1, 70)
+print(boiler)
