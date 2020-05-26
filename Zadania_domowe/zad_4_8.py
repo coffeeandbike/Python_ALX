@@ -29,5 +29,5 @@ class Basket:
 koszyk = Basket.add_products(['p1','p2', 'p3', 'p4','p1','p2'])
 print(koszyk)
 print('='* 50)
-koszyk2 = Basket.add_products(['rower', 'kawa', 'mieszkanie', 'rower','kiepski rower','kawa'])
+koszyk2 = Basket.add_products(['rower', 'kawa', 'mieszkanie', 'rower','kiepski rower','kawa', 'miszkanie'])
 print(koszyk2)
