@@ -34,7 +34,7 @@ class Tank:
             return "Brak wody"
 
     def __str__(self):
-        return self.get_info()
+        return self.how_much_water()
 
 
 
