@@ -6,8 +6,8 @@ for char in Vowels('ala ma kota a kot ma ale'):
 '''
 
 
-class VolelCouner:
-    VOVELS = ['e', 'y', 'u', 'i', 'o', 'a']
+class VowelCouner:
+    VOWELS = ['e', 'y', 'u', 'i', 'o', 'a']
 
     def __init__(self, text_to_count: str):
         """
@@ -26,8 +26,8 @@ class VolelCouner:
         print("Next")
 
         self.string_lenght = len(self.text_to_count)
-        self.how_much_vovels = 0
-        vovels = []
+        self.how_much_vowels = 0
+        vowels = []
 
         if self.char_counter > self.string_lenght:
             raise StopIteration
@@ -35,22 +35,22 @@ class VolelCouner:
 
         for char in self.text_to_count:
             self.char_counter += 1
-            if char in self.__class__.VOVELS:
-                self.how_much_vovels += 1
-                vovels.append(char)
+            if char in self.__class__.VOWELS:
+                self.how_much_vowels += 1
+                vowels.append(char)
             else:
                 self.char_counter += 1
 
-        return f'Amount of vovels: {self.how_much_vovels}\n{vovels}'
+        return f'Amount of vovels: {self.how_much_vowels}\n{vowels}'
 
 
-zlicz = VolelCouner("co to ma byc do cholery")
+zlicz = VowelCouner("co to ma byc do cholery")
 
 for char in zlicz:
     print(char)
 
 print('=' * 60)
 
-zlicz2 = VolelCouner("lorem impum lorem ipsum lorem impus")
+zlicz2 = VowelCouner("lorem impum lorem ipsum lorem impus")
 for char in zlicz2:
     print(char)
