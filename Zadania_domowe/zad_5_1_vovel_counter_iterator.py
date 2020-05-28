@@ -27,6 +27,7 @@ class VolelCouner:
 
         self.string_lenght = len(self.text_to_count)
         self.how_much_vovels = 0
+        vovels = []
 
         if self.char_counter > self.string_lenght:
             raise StopIteration
@@ -36,10 +37,11 @@ class VolelCouner:
             self.char_counter += 1
             if char in self.__class__.VOVELS:
                 self.how_much_vovels += 1
+                vovels.append(char)
             else:
                 self.char_counter += 1
 
-        return f'Amount of vovels: {self.how_much_vovels}'
+        return f'Amount of vovels: {self.how_much_vovels}\n{vovels}'
 
 
 zlicz = VolelCouner("co to ma byc do cholery")
