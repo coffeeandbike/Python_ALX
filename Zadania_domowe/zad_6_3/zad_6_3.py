@@ -48,4 +48,6 @@ for row in file:
 print(f'In this txt file is {len(dict)} words')
 print()
 for key in list(dict.keys()):
-    print(key, ":", dict[key])
+    print(f"{key} : {dict[key]}")
+
+file.close()
